@@ -2,10 +2,15 @@ import requests
 from bs4 import BeautifulSoup
 import undetected_chromedriver as uc
 
-URL = "https://www.2kratings.com/current-teams"
+BASE_URL = "https://www.2kratings.com/"
 
-driver = uc.Chrome()
-driver.get(URL)
+options  = uc.ChromeOptions()
+# options.headless = True
+prefs = {"profile.managed_default_content_settings.images": 2}
+options.add_experimental_option("prefs", prefs)
+
+driver = uc.Chrome(options=options)
+driver.get(BASE_URL + "current-teams/")
 
 # page = requests.get(URL)
 
