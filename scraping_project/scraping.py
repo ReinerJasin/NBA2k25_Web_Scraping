@@ -12,13 +12,18 @@ driver.get(URL)
 page_source = driver.page_source
 soup = BeautifulSoup(page_source, "html.parser")
 
-# Get current teams and put in an array
+# Create empty set to store all nba team names
+team_name_url = set()
+
+# Find all table row
 current_teams = soup.find_all("tr")
 
+# Extract the img tag and get the title of each team name
 for current_team in current_teams:
-    team_name = current_team.find("img", class_="mr-2")
-    print("=====DEBUG START=====")
-    print(type(team_name))
-    print("=====DEBUG END=====")
-    print(type(team_name))
-    # print(current_team, end="\n"*2)
+    img_tag = current_team.find("img", class_="mr-2")
+    if img_tag:
+        team_name = img_tag['title']
+        team_name_url.add(team_name.lower().replace(" ", "-"))
+
+# Print list of nba team names
+print(sorted(list(team_name_url)))
