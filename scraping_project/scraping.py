@@ -26,4 +26,11 @@ for current_team in current_teams:
         team_name_url.add(team_name.lower().replace(" ", "-"))
 
 # Print list of nba team names
-print(sorted(list(team_name_url)))
+team_name_list = sorted(list(team_name_url))
+
+for team_name_url in team_name_list:
+    driver.get(BASE_URL + '/teams/' + team_name_url)
+    page_source = driver.page_source
+    soup = BeautifulSoup(page_source, "html.parser")
+
+    print(soup.title)
