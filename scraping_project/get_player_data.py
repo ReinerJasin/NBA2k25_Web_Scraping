@@ -37,6 +37,8 @@ def getPlayerData(player_urls):
         player_nationality_1 = None
         player_nationality_2 = None
         player_team = None
+        player_position_1 = None
+        player_position_2 = None
 
         # Name
         player_h1_tag = soup.find("h1")
@@ -62,19 +64,23 @@ def getPlayerData(player_urls):
                 # print("found team: ", team_tag.find('a').text.strip())
 
             # Position 1 and Position 2
-            # if 'Nationality: ' in p_tag.text:
-            #     nationalities_tag = p_tag
-            #     player_nationalities_a_tag = nationalities_tag.find_all('a')
-            #     if len(player_nationalities_a_tag) > 0:
-            #         player_nationality_1 = player_nationalities_a_tag[0].text[1:]
-            #     if len(player_nationalities_a_tag) > 1:
-            #         player_nationality_2 = player_nationalities_a_tag[1].text[1:]
+            if 'Position: ' in p_tag.text:
+                positions_tag = p_tag
+                player_positions_a_tag = positions_tag.find_all('a')
+                if len(player_positions_a_tag) > 0:
+                    player_position_1 = player_positions_a_tag[0].text
+                if len(player_positions_a_tag) > 1:
+                    player_position_2 = player_positions_a_tag[1].text
 
         # Compile player in an object model
-        print("adding player name: ", player_name)
-        print("adding player nationality 1: ", player_nationality_1)
-        print("adding player nationality 2: ", player_nationality_2)
-        print("adding player team: ", player_team)
+        print("adding player - name: ", player_name)
+        print("adding player - nationality 1: ", player_nationality_1)
+        print("adding player - nationality 2: ", player_nationality_2)
+        print("adding player - team: ", player_team)
+        print("adding player - position 1: ", player_position_1)
+        print("adding player - position 2: ", player_position_2)
+        print("")
+        print("")
         # print("adding player years in the NBA: ", 10)
 
         # Add to pandas dataframe
