@@ -1,6 +1,7 @@
 from Model.player_model import PlayerModel
 from Model.player_model import PlayerKey
 
+import os
 import pandas as pd
 from bs4 import BeautifulSoup
 import undetected_chromedriver as uc
@@ -192,4 +193,7 @@ def getPlayerData(player_urls):
 
         print(result_df)
 
-getPlayerData(["trae-young", "luka-doncic", "joel-embiid"])
+        print("Saving")
+        result_df.to_csv(os.path.abspath(os.curdir) + '\output\current_nba_players.csv')
+
+# getPlayerData(["trae-young", "luka-doncic", "joel-embiid"])
