@@ -1,3 +1,5 @@
+from get_player_data import getPlayerData
+
 import requests
 from bs4 import BeautifulSoup
 import undetected_chromedriver as uc
@@ -59,3 +61,5 @@ player_name_list = sorted(list(player_name_url))
 
 # Print all player_name_url that will be used as a url endpoint
 print(player_name_list)
+
+getPlayerData(player_name_list)
