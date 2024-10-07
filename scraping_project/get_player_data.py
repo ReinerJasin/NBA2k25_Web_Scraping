@@ -18,7 +18,7 @@ driver = uc.Chrome(options=options)
 def getPlayerData(player_urls):
 
     # Create empty pandas dataframe
-    df = pd.DataFrame()
+    result_df = pd.DataFrame()
 
     # create an empy dictionary with keys
     dict_keys = PlayerKey.dict_keys
@@ -141,35 +141,55 @@ def getPlayerData(player_urls):
                 player_prior_to_nba = prior_to_nba_tag.text.replace("Prior to  NBA:", "").strip()
 
         # Compile player in an object model for DEBUG
-        print("adding player - name: ", player_name)
-        print("adding player - nationality 1: ", player_nationality_1)
-        print("adding player - nationality 2: ", player_nationality_2)
-        print("adding player - team: ", player_team)
-        print("adding player - jersey: ", player_jersey)
-        print("adding player - position 1: ", player_position_1)
-        print("adding player - position 2: ", player_position_2)
-        print("adding player - archetype: ", player_archetype)
-        print("adding player - height (feet): ", player_height_feet)
-        print("adding player - height (cm): ", player_height_cm)
-        print("adding player - weight (lbs): ", player_weight_lbs)
-        print("adding player - weight (kg): ", player_weight_kg)
-        print("adding player - wingspan (feet): ", player_wingspan_feet)
-        print("adding player - wingspan (cm): ", player_wingspan_cm)
-        print("adding player - season salary: ", player_season_salary)
-        print("adding player - year(s) in the NBA: ", player_years_in_the_nba)
-        print("adding player - birthdate: ", player_birthdate)
-        print("adding player - hometown: ", player_hometown)
-        print("adding player - prior to NBA: ", player_prior_to_nba)
-        print("")
-        print("")
+        # print("adding player - name: ", player_name)
+        # print("adding player - nationality 1: ", player_nationality_1)
+        # print("adding player - nationality 2: ", player_nationality_2)
+        # print("adding player - team: ", player_team)
+        # print("adding player - jersey: ", player_jersey)
+        # print("adding player - position 1: ", player_position_1)
+        # print("adding player - position 2: ", player_position_2)
+        # print("adding player - archetype: ", player_archetype)
+        # print("adding player - height (feet): ", player_height_feet)
+        # print("adding player - height (cm): ", player_height_cm)
+        # print("adding player - weight (lbs): ", player_weight_lbs)
+        # print("adding player - weight (kg): ", player_weight_kg)
+        # print("adding player - wingspan (feet): ", player_wingspan_feet)
+        # print("adding player - wingspan (cm): ", player_wingspan_cm)
+        # print("adding player - season salary: ", player_season_salary)
+        # print("adding player - year(s) in the NBA: ", player_years_in_the_nba)
+        # print("adding player - birthdate: ", player_birthdate)
+        # print("adding player - hometown: ", player_hometown)
+        # print("adding player - prior to NBA: ", player_prior_to_nba)
+        # print("")
+        # print("")
 
         # Add to pandas dataframe
         player_dict["name"] = player_name
-        player_dict["years_in_the_nba"] = 23
-        player_dict["name"] = player_name
-        player_dict["years_in_the_nba"] = 23
-        player_dict[""]= 23
+        player_dict["nationality_1"] = player_nationality_1
+        player_dict["nationality_2"] = player_nationality_2
+        player_dict["team"] = player_team
+        player_dict["jersey"] = player_jersey
+        player_dict["position_1"]= player_position_1
+        player_dict["position_2"]= player_position_2
+        player_dict["archetype"]= player_archetype
+        player_dict["height_feet"]= player_height_feet
+        player_dict["height_cm"]= player_height_cm
+        player_dict["weight_lbs"]= player_weight_lbs
+        player_dict["weight_kg"]= player_weight_kg
+        player_dict["wingspan_feet"]= player_wingspan_feet
+        player_dict["wingspan_cm"]= player_wingspan_cm
+        player_dict["season_salary"]= player_season_salary
+        player_dict["years_in_the_nba"]= player_years_in_the_nba
+        player_dict["birthdate"]= player_birthdate
+        player_dict["hometown"]= player_hometown
+        player_dict["prior_to_nba"]= player_prior_to_nba
 
-        # print(player_dict)
+        print(player_dict)
+        print("")
+
+        current_player_df = pd.DataFrame([player_dict])
+        result_df = pd.concat([result_df, current_player_df], ignore_index=True)
+
+        print(result_df)
 
 getPlayerData(["trae-young", "luka-doncic", "joel-embiid"])

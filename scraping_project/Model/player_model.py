@@ -10,6 +10,7 @@ class PlayerKey:
         'nationality_1',
         'nationality_2',
         'team',
+        'jersey',
         'position_1',
         'position_2',
         'archetype',
