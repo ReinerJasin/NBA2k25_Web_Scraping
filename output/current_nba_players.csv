@@ -1,0 +1,522 @@
+,name,nationality_1,nationality_2,team,jersey,position_1,position_2,archetype,height_feet,height_cm,weight_lbs,weight_kg,wingspan_feet,wingspan_cm,season_salary,years_in_the_nba,birthdate,hometown,prior_to_nba
+0,Aaron Gordon,United States,,Denver Nuggets,32,PF,,2-Way Interior Scorer,"6'8""",203,235,106,"7'0""",213,22841455,11,"September 16, 1995","San Jose, California",Arizona
+1,Aaron Holiday,United States,,Houston Rockets,0,PG,SG,Perimeter Shot Creator,"6'0""",183,185,83,"6'8""",203,4668000,7,"September 30, 1996","Ruston, Louisiana",UCLA
+2,Aaron Nesmith,United States,,Indiana Pacers,23,SF,PF,2-Way Catch & Shoot Ace,"6'5""",196,215,97,"6'10""",208,11000000,5,"October 16, 1999","Charleston, South Carolina",Vanderbilt Commodores
+3,Aaron Wiggins,United States,,Oklahoma City Thunder,21,PF,SF,Inside-Out Scoring Threat,"6'5""",196,190,86,"6'10""",208,10514017,4,"January 2, 1999","Greensboro, North Carolina",Maryland
+4,Adam Flagler,United States,,Oklahoma City Thunder,14,SG,PG,Catch & Shoot Threat,"6'3""",191,180,81,"6'5""",196,,2,"December 1, 1999","Duluth, Georgia, U.S.",Baylor
+5,Adama Sanogo,Mali,,Chicago Bulls,21,C,PF,Rebounder,"6'9""",206,245,110,"7'3""",221,,2,"February 12, 2002","Bamako, Mali",UConn
+6,Adem Bona,Nigeria,Turkey,Philadelphia 76ers,30,C,,Interior Threat,"6'10""",208,245,110,"7'0""",213,,1,"March 28, 2003","Lagos, Nigeria",UCLA
+7,A.J. Green,United States,,Milwaukee Bucks,20,SG,SF,Catch & Shoot Ace,"6'4""",193,190,86,"6'7""",201,2120693,3,"September 27, 1999","Cedar Falls, Iowa",Northern Iowa
+8,AJ Johnson,United States,,Milwaukee Bucks,77,SG,PG,Mid-Range Shot Creator,"6'5""",196,160,72,"6'9""",206,2795294,1,"December 1, 2004","Woodland Hills, California",SoCal Academy
+9,A.J. Lawson,Canada,,Dallas Mavericks,9,SG,SF,Ball Hawk,"6'6""",198,179,81,"6'7""",201,2120693,4,"July 15, 2000","Toronto, Canada",South Carolina
+10,Ajay Mitchell,Belgium,,Oklahoma City Thunder,25,SG,PG,3PT Shot Creator,"6'5""",196,190,86,"6'9""",206,,1,"June 25, 2002","Ans, Belgium",UC Santa Barbara
+11,Al Horford,Dominican Republic,,Boston Celtics,42,PF,C,2-Way 3-Level Scoring Threat,"6'9""",206,240,108,"7'1""",216,9500000,18,"June 3, 1986","Puerto Plata, Dominican Republic",Florida
+12,Alec Burks,United States,,Miami Heat,18,SG,SF,Shot-Creating 3-Level Threat,"6'6""",198,214,96,"6'10""",208,2087519,14,"July 20, 1991","Grandview, Missouri",Colorado
+13,Alex Caruso,United States,,Oklahoma City Thunder,9,SG,SF,3 & D Two Guard,"6'5""",196,186,84,"6'6""",198,9890000,9,"February 28, 1994","College Station, Texas",Texas A&M
+14,Alex Len,Ukraine,,Sacramento Kings,25,C,,Board-Hunting Lob Threat,"7'0""",213,250,113,"7'4""",224,2087519,12,"June 16, 1993","Antratsyt, Ukraine",Maryland
+15,Alexandre Sarr,France,,Washington Wizards,20,PF,C,Rim Attacker,"7'1""",216,205,92,"7'5""",226,11245680,1,"April 26, 2005","Bordeaux, France","Perth Wildcats (NBL, Australia)"
+16,Alperen Sengun,Turkey,,Houston Rockets,28,C,,Inside the Arc Threat,"6'11""",211,243,109,"7'2""",218,5424654,4,"July 25, 2002","Giresun, Turkey",Turkey
+17,Amen Thompson,United States,,Houston Rockets,1,SG,SF,2-Way Rim Attacker,"6'7""",201,200,90,"7'0""",213,9249960,2,"January 30, 2003","Oakland, California",Overtime Elite
+18,Amir Coffey,United States,,Los Angeles Clippers,7,SF,SG,Shot-Creating 3-Level Threat,"6'7""",201,210,95,"6'8""",203,3938271,6,"June 17, 1997","Hopkins, Minnesota",Minnesota
+19,Andre Drummond,United States,,Philadelphia 76ers,5,C,,Paint Beast,"6'11""",211,279,126,"7'6""",229,5000000,13,"August 10, 1993","Mount Vernon, New York",Connecticut
+20,Andre Jackson Jr.,United States,,Milwaukee Bucks,44,SF,PG,Wing Stopper,"6'6""",198,209,94,"6'10""",208,1891857,2,"November 13, 2001","Amsterdam, New York",UConn
+21,Andrew Nembhard,Canada,,Indiana Pacers,2,SG,PG,2-Way 3-Level Shot Creator,"6'4""",193,191,86,"6'6""",198,2019699,3,"January 16, 2000","Aurora, Canada",Gonzaga
+22,Andrew Wiggins,Canada,,Golden State Warriors,22,SF,PF,Inside-Out Shot Creator,"6'7""",201,197,89,"7'0""",213,26276786,11,"February 23, 1995","Toronto, Canada",Kansas
+23,Anfernee Simons,United States,,Portland Trail Blazers,1,SG,PG,Inside-Out ISO Specialist,"6'3""",191,181,81,"6'9""",206,25892857,7,"June 8, 1999","Altamonte Springs, Florida",IMG Academy (FL)
+24,Anthony Black,United States,,Orlando Magic,0,PG,SG,Inside-Out Scoring Threat,"6'7""",201,200,90,"6'8""",203,7607760,2,"January 20, 2004","Las Colinas, Texas",Arkansas
+25,Anthony Davis,United States,,Los Angeles Lakers,3,C,PF,Slashing Paint Beast,"6'10""",208,253,114,"7'6""",229,43219440,13,"March 11, 1993","Chicago, Illinois",Kentucky
+26,Anthony Edwards,United States,,Minnesota Timberwolves,5,SG,SF,2-Way Scoring Phenom,"6'4""",193,225,101,"6'9""",206,42176400,5,"August 5, 2001","Atlanta, Georgia",Georgia
+27,Anthony Gill,United States,,Washington Wizards,16,PF,C,Interior Threat,"6'8""",203,230,104,"7'0""",213,,9,"October 17, 1992","High Point, Virginia",Virginia
+28,Anton Watson,United States,,Boston Celtics,28,PF,SF,Promising Prospect,"6'8""",203,228,103,"7'0""",213,,1,"October 6, 2000","Coeur d'Alene, Idaho",Gonzaga
+29,Antonio Reeves,United States,,New Orleans Pelicans,12,SG,SF,Catch & Shoot Threat,"6'3""",191,195,88,"6'7""",201,,1,"November 20, 2000","Chicago, Illinois",Kentucky
+30,Anzejs Pasecniks,Latvia,,Milwaukee Bucks,18,C,,Interior Threat,"7'1""",216,229,103,"7'5""",226,,8,"December 20, 1995",,Latvia
+31,Ariel Hukporti,Germany,Togo,New York Knicks,55,C,PF,Board Hunter,"7'0""",213,250,113,"7'3""",221,,1,"April 12, 2002","Stralsund, Germany","Riesen Ludwigsburg (BBL, Germany)"
+32,Ausar Thompson,United States,,Detroit Pistons,9,SF,PF,2-Way Rim Attacker,"6'6""",198,205,92,"7'0""",213,8376000,2,"January 30, 2003","Oakland, California",Overtime Elite
+33,Austin Reaves,United States,,Los Angeles Lakers,15,SG,PG,Balanced Two Guard,"6'5""",196,197,89,"6'6""",198,12976362,4,"May 29, 1998","Newark, Arkansas",Oklahoma
+34,Ayo Dosunmu,United States,,Chicago Bulls,12,SG,PG,Shot-Creating 3-Level Threat,"6'5""",196,200,90,"6'10""",208,7000000,4,"January 17, 2000","Compton, California",Illinois
+35,Bam Adebayo,United States,,Miami Heat,13,C,,Paint Beast,"6'9""",206,255,115,"7'3""",221,34848340,8,"July 18, 1997","Newark, New Jersey",Kentucky
+36,Baylor Scheierman,United States,,Boston Celtics,55,SG,SF,Perimeter Shot Creator,"6'7""",201,205,92,"6'11""",211,2494320,1,"September 26, 2000","Hastings, Nebraska",Creighton
+37,Ben Sheppard,United States,,Indiana Pacers,26,SG,SF,Defensive Menace,"6'6""",198,190,86,"6'8""",203,2663880,2,"July 16, 2001","Atlanta, Georgia",Belmont
+38,Ben Simmons,Australia,,Brooklyn Nets,10,PG,C,2-Way Rim Attacker,"6'10""",208,240,108,"7'0""",213,40338144,9,"July 20, 1996","Melbourne, Australia",LSU
+39,Bennedict Mathurin,Canada,,Indiana Pacers,00,SF,SF,Shot-Creating 3-Level Threat,"6'5""",196,210,95,"6'9""",206,7245720,3,"June 19, 2002","Montreal, Canada",Arizona
+40,Bilal Coulibaly,France,,Washington Wizards,0,SG,SF,Versatile Stopper,"6'8""",203,195,88,"7'2""",218,6945240,2,"July 26, 2004","Saint-Cloud, France",Metropolitans 92 (France)
+41,Blake Wesley,United States,,San Antonio Spurs,14,PG,SG,Rim Attacker,"6'3""",191,185,83,"6'9""",206,2624280,3,"March 16, 2003","South Bend, Indiana",Notre Dame
+42,Bobby Portis,United States,,Milwaukee Bucks,9,PF,C,3-Level Scoring Threat,"6'10""",208,250,113,"7'2""",218,12578286,10,"February 10, 1995","Little Rock, Arkansas",Arkansas
+43,Bobi Klintman,Sweden,,Detroit Pistons,34,PF,SF,Promising Prospect,"6'10""",208,225,101,"7'0""",213,,1,"March 6, 2003","Malmö, Sweden","Cairns Taipans (NBL, Australia)"
+44,Bogdan Bogdanovic,Serbia,,Atlanta Hawks,13,SG,SF,Sharpshooter,"6'5""",196,225,101,"6'11""",211,17260000,11,"August 18, 1992","Belgrade, Serbia",Serbia
+45,Bojan Bogdanovic,Croatia,,Brooklyn Nets,44,SF,PF,Sharpshooting Wing,"6'7""",201,226,102,"6'11""",211,19032850,14,"April 18, 1989","Mostar, Bosnia and Herzegovina",Croatia
+46,Bol Bol,South Sudan,United States,Phoenix Suns,11,PF,C,3-Level Scoring Threat,"7'3""",221,220,99,"7'8""",234,,6,"November 16, 1999","Khartoum, Sudan",Oregon
+47,Bradley Beal,United States,,Phoenix Suns,3,SG,PG,Walking Bucket,"6'4""",193,207,93,"6'8""",203,50203930,13,"June 28, 1993","St. Louis, Missouri",Florida
+48,Brandin Podziemski,United States,,Golden State Warriors,2,SG,PG,Inside-Out Shot Creator,"6'4""",193,205,92,"6'6""",198,3519960,2,"February 25, 2003","Greenfield, Wisconsin",Santa Clara
+49,Brandon Boston Jr.,United States,,San Antonio Spurs,4,SF,SG,Mid-Range Threat,"6'6""",198,188,85,"6'11""",211,,4,"November 28, 2001","Norcross, Georgia",Kentucky
+50,Brandon Clarke,Canada,,Memphis Grizzlies,15,C,PF,2-Way Inside-The-Arc Threat,"6'8""",203,215,97,"6'8""",203,12500000,6,"September 19, 1996","Vancouver, Canada",Gonzaga
+51,Brandon Ingram,United States,,New Orleans Pelicans,14,SF,PF,Mid-Range Slasher,"6'8""",203,190,86,"7'3""",221,36016200,9,"September 2, 1997","Kinston, North Carolina",Duke
+52,Brandon Miller,United States,,Charlotte Hornets,24,SF,SG,Shot-Creating 3-Level Threat,"6'7""",201,200,90,"7'1""",216,11424600,2,"November 22, 2002","Antioch, Tennessee",Alabama
+53,,,,,,,,,,,,,,,,,,,
+54,Brice Sensabaugh,United States,,Utah Jazz,8,SF,SG,Mid-Range Shot Creator,"6'5""",196,235,106,"6'7""",201,2571480,2,"October 30, 2003","Orlando, Florida",Ohio State
+55,Bronny James,United States,,Los Angeles Lakers,9,SG,PG,Rim Attacker,"6'3""",191,190,86,"6'7""",201,,1,"October 6, 2004","Cleveland, Ohio",USC
+56,Brook Lopez,United States,,Milwaukee Bucks,11,C,,2-Way 3-Level Scoring Threat,"7'1""",216,282,127,"7'6""",229,23000000,17,"April 1, 1988","North Hollywood, California",Stanford
+57,Bruce Brown,United States,,Toronto Raptors,11,PG,SG,Perimeter Threat,"6'4""",193,202,91,"6'9""",206,23000000,7,"August 15, 1996","Boston, Massachusetts",Miami (FL)
+58,Bruno Fernando,Angola,,Toronto Raptors,24,C,,Board-Hunting Lob Threat,"6'9""",206,240,108,"7'3""",221,,6,"August 15, 1998","Luanda, Angola",Maryland
+59,Bryce McGowens,United States,,Portland Trail Blazers,7,SF,SG,Shot-Creating 3-Level Threat,"6'6""",198,175,79,"6'9""",206,,3,"November 8, 2002","Pendleton, South Carolina",Nebraska
+60,Bub Carrington,United States,,Washington Wizards,8,PG,SG,Perimeter Shot Creator,"6'5""",196,180,81,"6'9""",206,4454880,1,"July 21, 2005","Baltimore, Maryland",Pittsburgh
+61,Buddy Hield,Bahamas,,Golden State Warriors,7,SG,SF,Perimeter Shot Creator,"6'4""",193,220,99,"6'9""",206,8780488,9,"December 17, 1992","Freeport, Bahamas",Oklahoma
+62,Cade Cunningham,United States,,Detroit Pistons,2,PG,SG,Shot-Creating 3-Level Threat,"6'6""",198,220,99,"7'0""",213,13940809,4,"September 25, 2001","Arlington, Texas",Oklahoma State
+63,Caleb Houstan,Canada,,Orlando Magic,2,SG,SF,3 & D Threat,"6'8""",203,205,92,"7'0""",213,2019699,3,"January 9, 2003","Mississauga, Canada",Michigan
+64,Caleb Martin,United States,,Philadelphia 76ers,16,PF,SF,Inside-Out Scoring Threat,"6'5""",196,210,95,"6'10""",208,8149001,6,"September 28, 1995","Winston-Salem, North Carolina",Nevada
+65,Cam Christie,United States,,Los Angeles Clippers,12,SG,PG,Catch & Shoot Threat,"6'6""",198,190,86,"6'10""",208,,1,"July 24, 2005","Arlington Heights, Illinois",Minnesota
+66,Cam Spencer,United States,,Memphis Grizzlies,24,SG,SF,Catch & Shoot Ace,"6'4""",193,207,93,"6'8""",203,,1,"April 6, 2000","Davidsonville, Maryland",UConn
+67,Cameron Johnson,United States,,Brooklyn Nets,2,PF,SF,Stretch Four,"6'8""",203,210,95,"6'10""",208,22500000,6,"March 3, 1996","Moon Township, Pennsylvania",North Carolina
+68,Cameron Payne,United States,,New York Knicks,1,PG,,3-Level Scoring Threat,"6'3""",191,183,82,"6'7""",201,2087519,10,"August 8, 1994","Memphis, Tennessee",Murray State
+69,Cam Reddish,United States,,Los Angeles Lakers,5,SG,SF,Defensive Menace,"6'7""",201,217,98,"7'1""",216,2463946,6,"September 1, 1999","Norristown, Pennsylvania",Duke
+70,Cam Thomas,United States,,Brooklyn Nets,24,SG,SF,3-Level Scoring Threat,"6'3""",191,210,95,"6'7""",201,4041249,4,"October 13, 2001","Yokosuka, Japan",LSU
+71,Cam Whitmore,United States,,Houston Rockets,7,SF,PF,Shot-Creating 3-Level Threat,"6'7""",201,230,104,"6'9""",206,3379080,2,"July 8, 2004","Odenton, Maryland",Villanova
+72,Caris LeVert,United States,,Cleveland Cavaliers,3,SG,SF,Inside-Out Shot Creator,"6'6""",198,205,92,"6'10""",208,16615384,9,"August 25, 1994","Columbus, Ohio",Michigan
+73,Cason Wallace,United States,,Oklahoma City Thunder,22,PG,SG,2-Way 3-Level Scoring Threat,"6'3""",191,195,88,"6'9""",206,5555880,2,"November 7, 2003","Dallas, Texas",Kentucky
+74,Charles Bassey,United States,,San Antonio Spurs,28,C,,Board-Hunting Paint Protector,"6'10""",208,230,104,"7'3""",221,2087519,4,"October 28, 2000","Lagos, Nigeria",Western Kentu...
+75,Charles Brown Jr.,United States,,Charlotte Hornets,44,SF,SG,Perimeter Shot Creator,"6'6""",198,199,90,"6'7""",201,,6,"February 2, 1997","Philadelphia, Pennsylvania",Saint Joseph's
+76,Chet Holmgren,United States,,Oklahoma City Thunder,7,C,PF,2-Way 3-Level Scoring Threat,"7'1""",216,195,88,"7'6""",229,10880640,3,"May 1, 2002","Minneapolis, Minnesota",Gonzaga
+77,Chris Boucher,Saint Lucia,,Toronto Raptors,25,C,PF,Inside-Out Scoring Threat,"6'9""",206,200,90,"7'4""",224,10810000,8,"January 11, 1993","Castries, St. Lucia",Oregon
+78,Chris Duarte,Canada,Dominican Republic,Chicago Bulls,27,SF,SG,3 & D Threat,"6'5""",196,190,86,"6'7""",201,5893768,4,"June 13, 1997","Puerto Plata, Dominican Republic",Oregon
+79,Chris Livingston,United States,,Milwaukee Bucks,7,PF,SF,Interior Threat,"6'6""",198,220,99,"6'11""",211,1891857,2,"October 15, 2003","Akron, Ohio",Kentucky
+80,Chris Paul,United States,,San Antonio Spurs,3,PG,,2-Way 3-Level Playmaker,"6'0""",183,175,79,"6'4""",193,10460000,20,"May 6, 1985","Winston-Salem, North Carolina",Wake Forest
+81,Christian Braun,United States,,Denver Nuggets,0,SF,SG,Catch & Shoot Ace,"6'6""",198,220,99,"6'7""",201,3089640,3,"April 17, 2001","Burlington, Kansas",Kansas
+82,Christian Koloko,Cameroon,,Los Angeles Lakers,35,C,,Paint Protector,"7'0""",213,230,104,"7'5""",226,,3,"June 20, 2000","Douala, Cameroon",Arizona
+83,Christian Wood,United States,,Los Angeles Lakers,35,C,PF,Interior Threat,"6'9""",206,214,96,"7'3""",221,3036040,10,"September 27, 1995","Long Beach, California",UNLV
+84,C.J. McCollum,United States,,New Orleans Pelicans,3,PG,SG,Inside-Out ISO Specialist,"6'3""",191,190,86,"6'6""",198,33333333,12,"September 19, 1991","Canton, Ohio",Lehigh
+85,Clint Capela,Switzerland,,Atlanta Hawks,15,C,,Paint Beast,"6'10""",208,256,115,"7'5""",226,22265280,11,"May 18, 1994","Geneva, Switzerland",Switzerland
+86,Coby White,United States,,Chicago Bulls,0,PG,SG,Inside-Out ISO Specialist,"6'5""",196,195,88,"6'5""",196,12000000,6,"February 16, 2000","Goldsboro, North Carolina",North Carolina
+87,Cody Martin,United States,,Charlotte Hornets,11,SG,SF,Inside-Out Shot Creator,"6'6""",198,205,92,"6'10""",208,8120000,6,"September 28, 1995","Mocksville, North Carolina",Nevada
+88,Cody Williams,United States,,Utah Jazz,5,SF,PF,Rim Attacker,"6'8""",203,180,81,"7'0""",213,5469120,1,"November 20, 2004","San Luis Obispo, California",Colorado
+89,Cody Zeller,United States,,Atlanta Hawks,40,C,,Board Hunter,"6'11""",211,240,108,"6'9""",206,3500000,12,"October 5, 1992","Washington, Indiana",Indiana
+90,Colby Jones,United States,,Sacramento Kings,20,SG,SF,Perimeter Defender,"6'6""",198,207,93,"6'8""",203,2120693,2,"May 28, 2002","Birmingham, Alabama",Xavier
+91,Cole Anthony,United States,,Orlando Magic,50,PG,SG,Balanced Point,"6'2""",188,185,83,"6'5""",196,12900000,5,"May 15, 2000","Portland, Oregon",North Carolina Tar Heels
+92,Cole Swider,United States,,Indiana Pacers,21,PF,,Stretch Four,"6'8""",203,220,99,"6'8""",203,,3,"May 8, 1999","Portsmouth, Rhode Island",Syracuse
+93,Colin Castleton,United States,,Los Angeles Lakers,14,C,,Promising Prospect,"6'10""",208,250,113,"7'2""",218,,2,"May 25, 2000","Pembroke Pines, Florida",Florida
+94,Collin Gillespie,United States,,Phoenix Suns,12,PG,,Perimeter Threat,"6'1""",185,195,88,"6'4""",193,,3,"June 25, 1999","Philadelphia, Pennsylvania",Villanova
+95,Collin Sexton,United States,,Utah Jazz,2,SG,PG,Shot-Creating 3-Level Threat,"6'3""",191,190,86,"6'7""",201,18350000,7,"January 4, 1999","Marietta, Georgia",Alabama
+96,Corey Kispert,United States,,Washington Wizards,24,SG,SF,Catch & Shoot Ace,"6'6""",198,224,101,"6'7""",201,5705887,4,"March 3, 1999","Edmonds, Washington",Gonzaga
+97,Cory Joseph,Canada,,Orlando Magic,9,PG,SG,Perimeter Threat,"6'2""",188,200,90,"6'6""",198,3303771,14,"August 20, 1991","Pickering, Canada",Texas
+98,Craig Porter,United States,,Cleveland Cavaliers,9,PG,,Perimeter Threat,"6'1""",185,180,81,"6'5""",196,1891857,2,"February 26, 2000","Terre Haute, Indiana",Wichita State
+99,Daishen Nix,United States,,Minnesota Timberwolves,12,PG,SG,Steady Playmaker,"6'5""",196,224,101,"6'7""",201,,4,"February 13, 2002","Fairbanks, Alaska",Trinity International
+100,Dalano Banton,Canada,,Portland Trail Blazers,5,SG,PG,Steady Combo Guard,"6'7""",201,204,92,"6'10""",208,2196970,4,"November 7, 1999","Toronto, Canada",Nebraska
+101,Dalen Terry,United States,,Chicago Bulls,25,SG,SF,Rim Attacker,"6'7""",201,195,88,"7'1""",216,3510480,3,"July 12, 2002","Phoenix, Arizona",Arizona
+102,Dalton Knecht,United States,,Los Angeles Lakers,4,SF,SG,Catch & Shoot Ace,"6'6""",198,204,92,"6'10""",208,3819120,1,"April 19, 2001","Fargo, North Dakota",Tennessee
+103,Damian Lillard,United States,,Milwaukee Bucks,0,PG,,Offensive Architect,"6'2""",188,195,88,"6'8""",203,48787676,13,"July 15, 1990","Oakland, California",Weber State
+104,Damion Lee,United States,,Phoenix Suns,10,SG,SF,Catch & Shoot Ace,"6'6""",198,210,95,"6'8""",203,2087519,9,"October 21, 1992","Baltimore, Maryland",Louisville
+105,D’Angelo Russell,United States,,Los Angeles Lakers,1,PG,,3-Level Scoring Playmaker,"6'3""",191,193,87,"6'10""",208,18692307,10,"February 23, 1996","Louisville, Kentucky",Ohio State
+106,Daniel Gafford,United States,,Dallas Mavericks,21,C,,Paint Beast,"6'10""",208,234,105,"7'2""",218,13394160,6,"October 1, 1998","El Dorado, Arkansas",Arkansas
+107,Daniel Theis,Germany,,New Orleans Pelicans,10,C,,2-Way 3-Level Scoring Threat,"6'8""",203,245,110,"7'0""",213,2087519,12,"April 4, 1992","Salzgitter, Germany",Germany
+108,Dante Exum,Australia,,Dallas Mavericks,0,SF,SG,3PT Shot Creator,"6'5""",196,214,96,"6'10""",208,3150000,11,"July 13, 1995","Melbourne, Australia",Lake Ginninderra High School (Australia)
+109,DaQuan Jeffries,United States,,Charlotte Hornets,21,SF,SG,Mid-Range Scoring Threat,"6'5""",196,222,100,"6'11""",211,2463946,6,"August 30, 1997","Edmond, Oklahoma",Tulsa
+110,Dario Saric,Croatia,,Denver Nuggets,20,PF,C,Inside-Out Scoring Threat,"6'10""",208,225,101,"6'10""",208,5168000,11,"April 8, 1994","Sibenik, Croatia",Anadolu Efes (Turkey)
+111,Dariq Whitehead,United States,,Brooklyn Nets,0,SF,SG,Shot-Creating 3-Level Threat,"6'6""",198,220,99,"6'10""",208,3114240,2,"August 1, 2004","Newark, New Jersey",Duke
+112,Darius Garland,United States,,Cleveland Cavaliers,10,PG,SG,Offensive Architect,"6'1""",185,192,86,"6'5""",196,36725670,6,"January 26, 2000","Gary, Indiana",Vanderbilt
+113,DaRon Holmes II,United States,,Denver Nuggets,14,PF,C,Stretch Four,"6'10""",208,235,106,"7'1""",216,3065640,1,"August 15, 2002","Goodyear, Arizona",Dayton
+114,David Duke Jr.,United States,,San Antonio Spurs,11,SG,SF,Secondary Ball-Handler,"6'4""",193,204,92,"6'8""",203,,4,"October 13, 1999","Providence, Rhode Island",Providence
+115,David Roddy,United States,,Atlanta Hawks,28,SF,PF,Promising Prospect,"6'4""",193,255,115,"7'0""",213,2847240,3,"March 27, 2001","Minneapolis, Minnesota",Colorado State
+116,Davion Mitchell,United States,,Toronto Raptors,45,PG,SG,2-Way Perimeter Shot Creator,"6'0""",183,202,91,"6'4""",193,6451077,4,"September 5, 1998","Hinesville, Georgia",Baylor
+117,Day’Ron Sharpe,United States,,Brooklyn Nets,20,C,,Board-Hunting Paint Protector,"6'9""",206,265,119,"7'0""",213,3989122,4,"November 6, 2001","Greenville, North Carolina",North Carolina
+118,De’Aaron Fox,United States,,Sacramento Kings,5,PG,,2-Way 3-Level Playmaker,"6'3""",191,185,83,"6'7""",201,34848340,8,"December 20, 1997","New Orleans, Louisiana",Kentucky
+119,Dean Wade,United States,,Cleveland Cavaliers,32,PF,SF,Stretch Four,"6'9""",206,228,103,"6'10""",208,6166667,6,"November 20, 1996","Wichita, Kansas",Kansas State
+120,Deandre Ayton,Bahamas,,Portland Trail Blazers,2,C,,Inside The Arc Board Hunter,"7'0""",213,250,113,"7'6""",229,34005126,7,"July 23, 1998","Nassau, Bahamas",Arizona
+121,De’Andre Hunter,United States,,Atlanta Hawks,12,PF,SF,2-Way Stretch Four,"6'8""",203,221,99,"7'2""",218,21696429,6,"December 2, 1997","Philadelphia, Pennsylvania",Virginia
+122,DeAndre Jordan,United States,,Denver Nuggets,6,C,,Board-Hunting Paint Protector,"6'11""",211,265,119,"7'6""",229,,17,"July 21, 1988","Houston, Texas",Texas A&M
+123,De’Anthony Melton,United States,,Golden State Warriors,8,SG,PG,Defensive Menace,"6'3""",191,200,90,"6'9""",206,12822000,7,"May 28, 1998","North Hollywood, California",Southern California
+124,Dejounte Murray,United States,,New Orleans Pelicans,5,SG,PG,2-Way 3-Level Combo Guard,"6'5""",196,180,81,"6'10""",208,25499599,9,"September 19, 1996","Seattle, Washington",Washington
+125,Delon Wright,United States,,Milwaukee Bucks,55,PG,SG,Defensive Menace,"6'5""",196,185,83,"6'8""",203,2087519,10,"April 26, 1992","Los Angeles, California",Utah
+126,DeMar DeRozan,United States,,Sacramento Kings,10,SF,PF,Shot-Creating 3-Level Threat,"6'6""",198,220,99,"6'9""",206,23400000,16,"August 7, 1989","Compton, California",Southern California
+127,Deni Avdija,Israel,,Portland Trail Blazers,8,SF,PF,2-Way Inside-Out Shot Creator,"6'9""",206,210,95,"6'9""",206,15625000,5,"January 3, 2001","Beit Zera, Israel",Maccabi Tel Aviv (Israel)
+128,Dennis Schroder,Germany,,Brooklyn Nets,17,PG,SG,Shot-Creating 3-Level Threat,"6'1""",185,172,77,"6'8""",203,13025250,12,"September 15, 1993","Braunschweig, Germany","SG Braunschweig (ProB, Germany)"
+129,Dereck Lively II,United States,,Dallas Mavericks,2,C,,Paint Beast,"7'1""",216,230,104,"7'7""",231,5014560,2,"February 12, 2004","Philadelphia, Pennsylvania",Duke
+130,Derrick Jones Jr.,United States,,Los Angeles Clippers,55,SF,PF,High Flyer,"6'6""",198,210,95,"7'0""",213,9523810,9,"February 15, 1997","Chester, Pennsylvania",UNLV
+131,Derrick White,United States,,Boston Celtics,9,SG,PG,2-Way 3-Level Combo Guard,"6'4""",193,190,86,"6'8""",203,20071429,8,"July 2, 1994","Parker, Colorado",Colorado
+132,Desmond Bane,United States,,Memphis Grizzlies,22,SG,SF,2-Way 3-Level Shot Creator,"6'5""",196,215,97,"6'4""",193,34005250,5,"June 25, 1995","Richmond, Indiana",Texas Christian
+133,Devin Booker,United States,,Phoenix Suns,1,PG,SG,Offensive Architect,"6'6""",198,206,93,"6'8""",203,49205800,10,"October 30, 1996","Grand Rapids, Michigan",Kentucky
+134,Devin Carter,United States,,Sacramento Kings,22,PG,SF,Rim Attacker,"6'3""",191,195,88,"6'7""",201,4689000,1,"March 18, 2002","Miami, Florida",Providence
+135,Devin Vassell,United States,,San Antonio Spurs,24,SG,SF,2-Way Perimeter Shot Creator,"6'5""",196,200,90,"6'10""",208,29347826,5,"August 23, 2000","Lawrenceville, Georgia",Florida State
+136,Devonte’ Graham,United States,,Portland Trail Blazers,3,PG,SG,Inside the Arc Shot Creator,"6'1""",185,195,88,"6'6""",198,2850000,7,"February 22, 1995","Raleigh, North Carolina",Kansas
+137,Dillon Brooks,Canada,,Houston Rockets,9,SF,PF,2-Way Perimeter Shot Creator,"6'6""",198,225,101,"6'6""",198,22255493,8,"January 22, 1996","Mississauga, Canada",Oregon
+138,Dillon Jones,United States,,Oklahoma City Thunder,3,PF,SF,Perimeter Defender,"6'6""",198,235,106,"6'10""",208,2622360,1,"October 29, 2001","Columbia, South Carolina",Weber State
+139,D.J. Carton,United States,,Toronto Raptors,3,PG,,3PT Threat,"6'3""",191,200,90,"6'7""",201,,4,"August 5, 2000","Pineville, North Carolina",Marquette
+140,Domantas Sabonis,Lithuania,United States,Sacramento Kings,11,C,,3-Level Scoring Playmaker,"6'10""",208,240,108,"6'11""",211,40500000,9,"May 3, 1996","Portland, Oregon",Gonzaga
+141,Dominick Barlow,United States,,Atlanta Hawks,26,C,PF,Rebounder,"6'9""",206,215,97,"7'1""",216,,3,"May 26, 2003","Dumont, New Jersey",St. Joseph's Prep
+142,Donovan Clingan,United States,,Portland Trail Blazers,23,C,,Paint Protector,"7'3""",221,265,119,"7'7""",231,6836400,1,"February 23, 2004","Bristol, Connecticut",UConn
+143,Donovan Mitchell,United States,,Cleveland Cavaliers,45,SG,PG,Offensive Architect,"6'3""",191,215,97,"6'10""",208,35410310,8,"September 7, 1996","Elmsford, Connecticut",Louisville
+144,Donte DiVincenzo,United States,,Minnesota Timberwolves,0,SG,SF,3 & D Two Guard,"6'4""",193,203,91,"6'6""",198,11445000,7,"January 31, 1997","Newark, Delaware",Villanova
+145,Dorian Finney-Smith,United States,,Brooklyn Nets,28,PF,C,2-Way Inside-Out Threat,"6'7""",201,220,99,"7'0""",213,14924167,9,"May 4, 1993","Portsmouth, Virginia",Florida
+146,Draymond Green,United States,,Golden State Warriors,23,PF,C,2-Way Stretch Point Four,"6'6""",198,230,104,"7'1""",216,24107143,13,"March 4, 1990","Saginaw, Michigan",Michigan State
+147,Drew Eubanks,United States,,Utah Jazz,15,C,,Interior Threat,"6'10""",208,245,110,"7'0""",213,,7,"February 1, 1997","Starkville, Mississippi",Oregon State
+148,Drew  Peterson,United States,,Boston Celtics,13,SF,PF,Catch & Shoot Threat,"6'9""",206,205,92,"7'1""",216,,2,"November 9, 1999","Libertyville, illinois",Southern California
+149,Dru Smith,United States,,Miami Heat,12,PG,SG,Ball Hawk,"6'2""",188,200,90,"6'6""",198,,4,"December 30, 1997","Evansville, Indiana",Missouri
+150,Duane Washington Jr.,Germany,United States,Charlotte Hornets,4,PG,SG,Perimeter Threat,"6'2""",188,197,89,"6'8""",203,,4,"March 24, 2000","Frankfurt, Germany",Ohio State
+151,Duncan Robinson,United States,,Miami Heat,55,SG,SF,Catch & Shoot Ace,"6'7""",201,215,97,"7'1""",216,19406000,7,"April 22, 1994","Las Vegas, Nevada",Michigan
+152,Duop Reath,Australia,South Sudan,Portland Trail Blazers,26,C,,Stretch Five,"6'9""",206,245,110,"7'1""",216,2048780,7,"June 26, 1996","Perth, Australia",Louisiana State
+153,Dwight Powell,Canada,,Dallas Mavericks,7,C,,Inside-Out Scoring Threat,"6'10""",208,240,108,"7'1""",216,4000000,11,"July 20, 1991","Toronto, Canada",Stanford
+154,Dyson Daniels,Australia,,Atlanta Hawks,5,PG,SG,2-Way Rim Attacker,"6'7""",201,199,90,"6'11""",211,6059520,3,"March 17, 2003","Bendigo, Australia",NBA G League Ignite
+155,Emoni Bates,United States,,Cleveland Cavaliers,21,SF,SG,Perimeter Shot Creator,"6'8""",203,170,77,"6'9""",206,,2,"January 28, 2004","Ann Arbor, Michigan",Eastern Michigan
+156,Enrique Freeman,United States,,Indiana Pacers,8,PF,C,Interior Threat,"6'7""",201,214,96,"6'11""",211,,1,"July 29, 2000","Cleveland, Ohio",Akron
+157,Eric Gordon,Bahamas,United States,Philadelphia 76ers,23,SG,SF,Perimeter Shot Creator,"6'3""",191,215,97,"6'9""",206,3303771,17,"December 25, 1988","Indianapolis, Indiana",Indiana
+158,Evan Mobley,United States,,Cleveland Cavaliers,4,PF,C,Switchable Lockdown Defender,"6'11""",211,215,97,"7'4""",224,11227657,4,"June 18, 2001","San Diego, California",USC
+159,Franz Wagner,Germany,,Orlando Magic,22,SF,SG,Rim Attacker,"6'10""",208,220,99,"7'0""",213,7007092,4,"August 27, 2001","Berlin, Germany",Michigan
+160,Fred VanVleet,United States,,Houston Rockets,5,PG,,2-Way Playmaking Sharpshooter,"6'0""",183,197,89,"6'2""",188,42846615,9,"February 25, 1994","Rockford, Illinois",Wichita State
+161,Gabe Vincent,Nigeria,United States,Los Angeles Lakers,7,PG,SG,Perimeter Threat,"6'2""",188,200,90,"6'7""",201,11000000,7,"June 14, 1996","Modesto, California",UC Santa Barbara
+162,Garrett Temple,United States,,Toronto Raptors,17,SG,SF,Perimeter Defender,"6'5""",196,195,88,"6'9""",206,2087519,16,"May 8, 1986","Baton Rouge, Louisiana",LSU
+163,Garrison Mathews,United States,,Atlanta Hawks,25,SF,SG,Perimeter Shot Creator,"6'6""",198,215,97,"6'9""",206,2230253,6,"October 24, 1996","Franklin, Tennessee",Lipscomb
+164,Gary Harris,United States,,Orlando Magic,14,SG,SF,2-Way 3-Level Shot Creator,"6'4""",193,210,95,"6'7""",201,7500000,11,"September 14, 1994","Fishers, Indiana",Michigan State
+165,Gary Payton II,United States,,Golden State Warriors,0,SF,SG,Versatile Stopper,"6'2""",188,195,88,"6'8""",203,9130000,9,"December 1, 1992","Seattle, Washington",Oregon State
+166,Gary Trent Jr.,United States,,Milwaukee Bucks,5,SG,SF,Shot-Creating 3-Level Threat,"6'5""",196,209,94,"6'9""",206,,7,"January 18, 1999","Columbus, Ohio",Duke
+167,Georges Niang,United States,,Cleveland Cavaliers,20,PF,,Stretch Four,"6'7""",201,230,104,"6'10""",208,8500000,9,"June 17, 1993","Lawrence, Massachusetts",Iowa State
+168,Giannis Antetokounmpo,Greece,Nigeria,Milwaukee Bucks,34,PF,C,2-Way Slashing Point Four,"6'11""",211,243,109,"7'4""",224,48787676,12,"December 6, 1994","Athens, Greece",Filathlitikos (Greece)
+169,Goga Bitadze,Georgia,,Orlando Magic,35,C,,Board-Hunting Lob Threat,"6'11""",211,250,113,"7'2""",218,9057971,6,"July 20, 1999","Sagarejo, Georgia","Budućnost (Prva A Liga, Montenegro)"
+170,Gradey Dick,United States,,Toronto Raptors,1,SG,SF,Inside-Out Shot Creator,"6'6""",198,205,92,"6'9""",206,4763760,2,"November 20, 2003","Wichita, Kansas City",Kansas
+171,Grant Williams,United States,,Charlotte Hornets,2,PF,C,Stretch Four,"6'6""",198,236,106,"6'10""",208,13025250,6,"November 30, 1998","Houston, Texas",Tennessee
+172,Grayson Allen,United States,,Phoenix Suns,8,SF,SG,Inside-Out Shot Creator,"6'4""",193,198,89,"6'7""",201,15625000,7,"October 8, 1995","Jacksonville, Florida",Duke
+173,G.G. Jackson,United States,,Memphis Grizzlies,45,SF,SF,Inside-Out Scoring Threat,"6'9""",206,210,95,"7'0""",213,1891857,2,"December 17, 2004","Columbia, South Carolina",South Carolina
+174,Guerschon Yabusele,France,,Philadelphia 76ers,28,PF,C,3-Level Scoring Threat,"6'8""",203,260,117,"7'0""",213,,9,"December 17, 1995","Dreux, France",France
+175,Gui Santos,Brazil,,Golden State Warriors,15,PF,SF,Stretch Four,"6'7""",201,185,83,"6'11""",211,1891857,3,"June 22, 2002","Federal District, Brazil","Minas (Novo Basquete Brasil, Brazil)"
+176,Harrison Barnes,United States,,San Antonio Spurs,40,SF,PF,Shot-Creating 3-Level Threat,"6'8""",203,225,101,"6'11""",211,18000000,13,"May 30, 1992","Ames, Iowa",UNC
+177,Harrison Ingram,United States,,San Antonio Spurs,55,PF,SF,Promising Prospect,"6'7""",201,230,104,"6'11""",211,,1,"November 27, 2002","Dallas, Texas",North Carolina
+178,Harry Giles III,United States,,Charlotte Hornets,20,C,PF,Mid-Range Scoring Threat,"6'10""",208,240,108,"7'3""",221,,8,"April 22, 1998","Winston-Salem, North Carolina",Duke
+179,Haywood Highsmith,United States,,Miami Heat,24,PF,SF,Stretch Four,"6'5""",196,220,99,"7'0""",213,5200000,7,"December 9, 1996","Baltimore, Maryland",Wheeling
+180,Henri Drell,Estonia,,Portland Trail Blazers,0,PF,SF,Promising Prospect,"6'9""",206,220,99,"7'1""",216,,3,"April 25, 2000","Tallinn, Estonia",Estonia
+181,Herbert Jones,United States,,New Orleans Pelicans,2,SG,SF,3 & D Two Guard,"6'7""",201,206,93,"7'0""",213,12976362,4,"October 6, 1998","Tuscaloosa, Alabama",Alabama
+182,Hunter Tyson,United States,,Denver Nuggets,5,PF,SF,Stretch Four,"6'8""",203,215,97,"6'10""",208,1891857,2,"June 13, 2000","Monroe, North Carolina",Clemson
+183,Immanuel Quickley,United States,,Toronto Raptors,5,PG,SG,2-Way Inside-Out Playmaker,"6'2""",188,190,86,"6'8""",203,32500000,5,"June 17, 1999","Havre de Grace, Maryland",Kentucky
+184,Isaac Okoro,United States,,Cleveland Cavaliers,35,SF,SG,Versatile Stopper,"6'5""",196,225,101,"6'9""",206,,5,"January 26, 2001","Atlanta, Georgia",Auburn
+185,Isaiah Collier,United States,,Utah Jazz,13,PG,SG,Tempo-Pushing Point,"6'4""",193,193,87,"6'8""",203,2512680,1,"October 8, 2004","Atlanta, Georgia",USC
+186,Isaiah Hartenstein,Germany,United States,Oklahoma City Thunder,55,C,,Board-Hunting Lob Threat,"7'0""",213,250,113,"7'2""",218,30000000,8,"May 5, 1998","Eugene, Oregon",Žalgiris Kaunas (Lithuania)
+187,Isaiah Jackson,United States,,Indiana Pacers,22,C,PF,Board-Hunting Lob Threat,"6'9""",206,205,92,"7'3""",221,4435381,4,"January 10, 2002","Pontiac, Michigan",Kentucky
+188,Isaiah Joe,United States,,Oklahoma City Thunder,11,SG,PG,Shot-Creating 3-Level Threat,"6'3""",191,165,74,"6'8""",203,12991650,5,"July 2, 1999","Fort Smith, Arkansas",Arkansas
+189,Isaiah Mobley,United States,,Cleveland Cavaliers,15,C,PF,Rebounder,"6'8""",203,238,107,"7'3""",221,,3,"September 24, 1999","San Diego, California",USC
+190,Isaiah Stewart,United States,,Detroit Pistons,28,PF,C,3-Level Scoring Threat,"6'8""",203,250,113,"7'4""",224,15000000,5,"May 22, 2001","Rochester, New York",Washington
+191,Ivica Zubac,Croatia,,Los Angeles Clippers,40,C,,Paint Beast,"7'0""",213,240,108,"7'4""",224,11743210,9,"March 18, 1997","Mostar, Bosnia and Herzegovina",Croatia
+192,Ja Morant,United States,,Memphis Grizzlies,12,PG,,3-Level Playmaking Slasher,"6'2""",188,174,78,"6'7""",201,36725670,6,"August 10, 1999","Dalzell, South Carolina",Murray State
+193,Jabari Smith Jr.,United States,,Houston Rockets,10,PF,C,Shot-Creating 3-Level Threat,"6'11""",211,220,99,"7'1""",216,9770880,3,"May 13, 2003","Fayetteville, Georgia",Auburn
+194,Jabari Walker,United States,,Portland Trail Blazers,34,PF,SF,Board Hunter,"6'7""",201,200,90,"6'11""",211,2019699,3,"July 30, 2002","Wichita, Kansas",Colorado
+195,Jacob Toppin,United States,,New York Knicks,00,PF,SF,Interior Threat,"6'8""",203,200,90,"6'11""",211,,2,"May 8, 2000","Brooklyn, New York",Kentucky
+196,Jaden Hardy,United States,,Dallas Mavericks,1,PG,SG,Balanced Offensive Point,"6'3""",191,198,89,"6'9""",206,2019699,3,"July 5, 2002","Detroit, Michigan",Coronado High School
+197,Jaden Ivey,United States,,Detroit Pistons,23,SG,PG,Shot-Creating 3-Level Threat,"6'4""",193,195,88,"6'10""",208,7977240,3,"February 13, 2002","South Bend, Indiana",Purdue
+198,Jaden McDaniels,United States,,Minnesota Timberwolves,3,SF,PF,Switchable Lockdown Defender,"6'9""",206,185,83,"7'0""",213,23017242,5,"September 29, 2000","Federal Way, Washington",Washington
+199,Jaden Springer,United States,,Boston Celtics,44,SG,SF,Ball Hawk,"6'4""",193,202,91,"6'8""",203,4018363,4,"September 25, 2002","Charlotte, North Carolina",Tennessee
+200,Jae’Sean Tate,United States,,Houston Rockets,8,SF,PF,Versatile Defender,"6'4""",193,230,104,"6'8""",203,7065217,7,"October 28, 1995","Toledo, Ohio",Ohio State
+201,Jaime Jaquez Jr.,United States,,Miami Heat,11,SF,PF,Shot-Creating 3-Level Threat,"6'6""",198,230,104,"6'10""",208,3685800,2,"February 18, 2001","Irvine, California",UCLA
+202,Jake LaRavia,United States,,Memphis Grizzlies,3,PF,SF,Stretch Four,"6'7""",201,235,106,"6'10""",208,3352680,3,"November 3, 2001","Pasadena, California",Wake Forest
+203,Jakob Poeltl,Austria,,Toronto Raptors,19,C,,Defensive Anchor,"7'0""",213,245,110,"7'3""",221,19500000,9,"October 15, 1995","Vienna, Austria",Utah
+204,Ja’Kobe Walter,United States,,Toronto Raptors,14,SF,SG,3 & D Threat,"6'5""",196,180,81,"6'9""",206,3465000,1,"September 4, 2004","McKinney, Texas",Baylor
+205,Jalen Brunson,United States,,New York Knicks,11,PG,,Offensive Architect,"6'2""",188,190,86,"6'4""",193,24960001,7,"August 31, 1996","New Brunswick, New Jersey",Villanova
+206,Jalen Duren,United States,,Detroit Pistons,0,C,,Board-Hunting Lob Threat,"6'10""",208,250,113,"7'5""",226,4536840,3,"November 18, 2003","New Castle, Delaware",Memphis
+207,Jalen Green,United States,Philippines,Houston Rockets,4,SG,PG,3-Level Slasher,"6'4""",193,186,84,"6'8""",203,12483048,4,"February 9, 2002","Merced, California",NBA G League Ignite
+208,Jalen Hood-Schifino,United States,,Los Angeles Lakers,0,PG,SG,Steady Playmaker,"6'5""",196,215,97,"6'10""",208,3879840,2,"June 19, 2003","Pittsburgh, Pennsylvania",Indiana
+209,Jalen Johnson,United States,,Atlanta Hawks,1,PF,SF,3-Level Scoring Threat,"6'8""",203,219,99,"7'0""",213,4510905,4,"December 18, 2001","Wausau, Wisconsin",Duke
+210,Jalen McDaniels,United States,,Sacramento Kings,7,PF,SF,Mid-Range Scoring Threat,"6'9""",206,205,92,"7'0""",213,4741800,6,"January 31, 1998","Federal Way, Washington",San Diego State
+211,Jalen Pickett,United States,,Denver Nuggets,24,PG,SG,Steady Playmaker,"6'2""",188,202,91,"6'7""",201,1891857,2,"October 22, 1999","Rochester, New York",Penn State
+212,Jalen Smith,United States,,Chicago Bulls,7,C,PF,Inside-Out Board Hunter,"6'9""",206,215,97,"7'2""",218,8571429,5,"March 16, 2000","Portsmouth, Virginia",Maryland Terrapins
+213,Jalen Suggs,United States,,Orlando Magic,4,PG,SG,2-Way Inside-Out ISO Creator,"6'5""",196,205,92,"6'6""",198,9188385,4,"June 3, 2001","St. Paul, Minnesota",Gonzaga
+214,Jalen Williams,United States,,Oklahoma City Thunder,8,PF,SF,Walking Bucket,"6'5""",196,211,95,"7'2""",218,4775760,3,"April 14, 2001","Denver, Colorado",Santa Clara
+215,Jalen Wilson,United States,,Brooklyn Nets,22,SF,PF,Catch & Shoot Threat,"6'6""",198,220,99,"6'8""",203,1891857,2,"November 4, 2000","Arlington, Texas",Kansas
+216,Jamal Cain,United States,,New Orleans Pelicans,8,SF,PF,Ball Hawk,"6'7""",201,210,95,"6'11""",211,,3,"March 20, 1999","Pontiac, Michigan",Oakland
+217,Jamal Murray,Canada,,Denver Nuggets,27,PG,SG,Offensive Architect,"6'4""",193,215,97,"6'7""",201,36016200,9,"February 23, 1997","Kitchener, Canada",Kentucky
+218,Jamal Shead,United States,,Toronto Raptors,23,PG,SG,Mid-Range Shot Creator,"6'1""",185,195,88,"6'5""",196,,1,"July 24, 2002","Austin, Texas",Houston
+219,James Harden,United States,,Los Angeles Clippers,1,PG,SG,Playmaking Inside-Out Scorer,"6'5""",196,220,99,"6'11""",211,33653846,16,"August 26, 1989","Los Angeles, California",Arizona State
+220,James Johnson,United States,,Indiana Pacers,16,PF,C,Versatile Defender,"6'7""",201,240,108,"7'1""",216,,16,"February 20, 1987","Cheyenne, Wyoming",Wake Forest
+221,James Wiseman,United States,,Indiana Pacers,13,C,,Board-Hunting Lob Threat,"6'11""",211,240,108,"7'6""",229,2237691,5,"March 31, 1998","Nashville, Tennessee",Memphis
+222,Jarace Walker,United States,,Indiana Pacers,5,PF,C,3-Level Scoring Threat,"6'7""",201,235,106,"7'3""",221,6362520,2,"September 4, 2003","Baltimore, Maryland",Houston
+223,Jared Butler,United States,,Washington Wizards,4,PG,,Steady Playmaker,"6'3""",191,193,87,"6'4""",193,2196970,4,"August 25, 2000","Reserve, Louisiana",Baylor
+224,Jared McCain,United States,,Philadelphia 76ers,20,SG,SF,Perimeter Shot Creator,"6'3""",191,197,89,"6'7""",201,4020360,1,"February 20, 2004","Sacramento, California",Duke
+225,Jared Rhoden,United States,,Toronto Raptors,8,PF,SF,Spot-Up Threat,"6'5""",196,210,95,"6'9""",206,,3,"August 27, 1999","Baldwin, New York",Seton Hall
+226,Jaren Jackson Jr.,United States,,Memphis Grizzlies,13,C,PF,2-Way Inside-Out Threat,"6'10""",208,242,109,"7'5""",226,25257798,7,"September 15, 1999","Plainfield, New Jersey",Michigan State
+227,Jarred Vanderbilt,United States,,Los Angeles Lakers,2,PF,C,2-Way Interior Threat,"6'8""",203,214,96,"7'1""",216,10714286,7,"April 3, 1999","Houston, Texas",Kentucky
+228,Jarrett Allen,United States,,Cleveland Cavaliers,31,C,,Paint Beast,"6'9""",206,243,109,"7'5""",226,20000000,8,"April 21, 1998","San Diego, Texas",Texas
+229,Jason Preston,United States,,Utah Jazz,10,PG,SG,3PT Playmaker,"6'3""",191,181,81,"6'9""",206,,4,"August 10, 1999","Orlando, Florida",Ohio
+230,Javonte Green,United States,,New Orleans Pelicans,26,PF,SF,Slashing Stretch Four,"6'5""",196,205,92,"7'0""",213,,10,"July 23, 1993","Petersburg, Virginia",Radford
+231,Jaxson Hayes,United States,,Los Angeles Lakers,11,C,PF,Interior Threat,"7'0""",213,220,99,"7'4""",224,2463946,6,"May 23, 2000","Norman, Oklahoma",Texas
+232,Jay Huff,United States,,Memphis Grizzlies,30,C,,Stretch Five,"7'1""",216,240,108,"7'5""",226,,4,"August 25, 1997","Durham, North Carolina",Virginia
+233,Jaylen Brown,United States,,Boston Celtics,7,SF,SG,2-Way Scoring Phenom,"6'6""",198,223,100,"7'0""",213,49700000,9,"October 24, 1996","Marietta, Georgia",California
+234,Jaylen Clark,United States,,Minnesota Timberwolves,0,SG,,Defensive Menace,"6'4""",193,205,92,"6'9""",206,,2,"October 13, 2001","Riverside, California",UCLA
+235,Jaylen Martin,United States,,Brooklyn Nets,16,SG,SF,Perimeter Defender,"6'6""",198,216,97,"6'10""",208,,2,"January 28, 2004","Tallahassee, Florida",Overtime Elite
+236,Jaylen Nowell,United States,,Washington Wizards,20,PG,SG,Inside the Arc Shot Creator,"6'4""",193,201,90,"6'7""",201,,6,"July 9, 1999","Seattle, Washington",Washington
+237,Jaylen Wells,United States,,Memphis Grizzlies,0,SF,PF,3PT Shot Creator,"6'8""",203,205,92,"7'0""",213,,1,"August 26, 2003","Sacramento, California",Washington State
+238,Jaylin Williams,United States,,Oklahoma City Thunder,6,C,,Stretch Five,"6'9""",206,240,108,"7'1""",216,2019699,3,"June 29, 2002","Fort Smith, Arkansas",Arkansas
+239,Jaylon Tyson,United States,,Cleveland Cavaliers,24,SF,PF,Perimeter Shot Creator,"6'7""",201,210,95,"6'11""",211,3326160,1,"December 2, 2002","Plano, Texas",California
+240,Jayson Tatum,United States,,Boston Celtics,0,PF,SF,2-Way Scoring Phenom,"6'8""",203,210,95,"6'10""",208,34848340,8,"March 3, 1998","St. Louis, Missouri",Duke
+241,JD Davison,United States,,Boston Celtics,20,PG,SG,Rim Attacker,"6'1""",185,195,88,"6'7""",201,,3,"October 3, 2002","Letohatchee, Alabama",Alabama
+242,Nate Williams,United States,,Houston Rockets,19,SF,SG,Catch & Shoot Threat,"6'5""",196,205,92,"7'2""",218,,3,"February 12, 1999","Rochester, New York",Buffalo
+243,Jeff Dowtin,United States,,Philadelphia 76ers,11,PG,SG,Steady Playmaker,"6'3""",191,177,80,"6'7""",201,,5,"May 10, 1997","Upper Marlboro, Maryland",Rhode Island
+244,Jeff Green,United States,,Houston Rockets,32,PF,C,Balanced 2-Way Threat,"6'8""",203,235,106,"7'1""",216,9600000,18,"August 28, 1986","Cheverly, Maryland",Georgetown
+245,Jerami Grant,United States,,Portland Trail Blazers,9,SF,PF,2-Way 3-Level Shot Creator,"6'7""",201,210,95,"7'3""",221,29793104,11,"March 12, 1994","Portland, Oregon",Syracuse
+246,Jeremiah Robinson-Earl,United States,,New Orleans Pelicans,50,PF,C,Inside-Out Scoring Threat,"6'8""",203,240,108,"6'10""",208,2196970,4,"November 3, 2000","Kansas City, Missouri",Villanova
+247,Jeremy Sochan,Poland,United States,San Antonio Spurs,10,PF,PG,Small Ball Four,"6'8""",203,230,104,"7'0""",213,5570040,3,"May 20, 2003","Guymon, Oklahoma",Baylor
+248,Jericho Sims,United States,,New York Knicks,20,C,,Interior Scorer,"6'10""",208,250,113,"7'3""",221,2092344,4,"October 20, 1998","Minneapolis, Minnesota",Texas
+249,Jermaine Samuels Jr.,United States,,Houston Rockets,00,PF,SF,Rim Rocker,"6'6""",198,230,104,"6'9""",206,,3,"November 13, 1998","Franklin, Massachusetts",Villanova
+250,Jett Howard,United States,,Orlando Magic,13,SF,SG,Perimeter Shot Creator,"6'6""",198,215,97,"6'9""",206,5278320,2,"September 14, 2003","Chicago, Illinois",Michigan
+251,Jevon Carter,United States,,Chicago Bulls,5,PG,SG,Perimeter Threat,"6'1""",185,200,90,"6'4""",193,6500000,7,"September 14, 1995","Oak Park, Illinois",West Virginia
+252,Jimmy Butler,United States,,Miami Heat,22,SF,PF,2-Way Inside-Out Point Forward,"6'7""",201,230,104,"6'8""",203,48798677,14,"September 14, 1989","Houston, Texas",Marquette
+253,Jock Landale,Australia,,Houston Rockets,2,C,,Inside the Arc Threat,"6'11""",211,255,115,"7'3""",221,8000000,7,"October 25, 1995","Malvern East, Australia",Australia
+254,Joe Ingles,Australia,,Minnesota Timberwolves,7,SF,PF,3 & D Wing,"6'9""",206,220,99,"6'10""",208,2087519,16,"October 2, 1987","Adelaide, Australia",Australia
+255,Joel Embiid,Cameroon,United States,Philadelphia 76ers,21,C,,2-Way 3-Level Scorer,"7'0""",213,280,126,"7'5""",226,51415938,11,"March 16, 1994","Yaounde, Cameroon",Kansas
+256,John Collins,United States,,Utah Jazz,20,C,PF,Inside-Out Scoring Threat,"6'9""",206,226,102,"6'11""",211,26580000,8,"September 23, 1997","Layton, Utah",Wake Forest
+257,John Konchar,United States,,Memphis Grizzlies,46,SG,SF,Perimeter Shot Creator,"6'5""",196,210,95,"6'8""",203,6165000,6,"March 22, 1996","Chicago, Illinois",Fort Wayne
+258,Johnny Davis,United States,,Washington Wizards,1,SG,SF,Inside-Out Shot Creator,"6'4""",193,195,88,"6'8""",203,5291160,3,"February 27, 2002","La Crosse, Wisconsin",Wisconsin
+259,Johnny Furphy,Australia,,Indiana Pacers,7,PF,SF,Stretch Four,"6'9""",206,210,95,"7'1""",216,,1,"December 7, 2004","Melbourne, Australia",Kansas
+260,Johnny Juzang,United States,,Utah Jazz,33,SF,SG,3PT Shot Creator,"6'7""",201,209,94,"6'11""",211,,3,"March 17, 2001","Los Angeles, California",UCLA
+261,Jonas Valanciunas,Lithuania,,Washington Wizards,17,C,,Inside The Arc Board Hunter,"6'11""",211,265,119,"7'3""",221,9900000,14,"May 6, 1992","Utena, Lithuania",Lithuania
+262,Jonathan Isaac,United States,,Orlando Magic,1,PF,,2-Way Slashing Stretch Four,"6'10""",208,230,104,"7'1""",216,25000000,8,"October 3, 1997","The Bronx, New York",Florida State
+263,Jonathan Kuminga,DR Congo,,Golden State Warriors,00,PF,SF,3-Level Scoring Threat,"6'7""",201,225,101,"6'11""",211,7636307,4,"October 6, 2002","Goma, DR Congo",NBA G League Ignite
+264,Jonathan Mogbo,United States,,Toronto Raptors,2,PF,C,Interior Threat,"6'8""",203,215,97,"7'0""",213,,1,"October 29, 2001","Wellington, Florida",San Francisco
+265,Jordan Clarkson,United States,Philippines,Utah Jazz,00,SG,SF,3-Level Slasher,"6'3""",191,194,87,"6'8""",203,14092577,11,"June 7, 1992","Tampa, Florida",Missouri
+266,Jordan Goodwin,United States,,Los Angeles Lakers,12,SG,PG,Steady Combo Guard,"6'4""",193,200,90,"6'10""",208,325590,4,"October 23, 1998","Centreville, Illinois",Saint Louis
+267,Jordan Hawkins,United States,,New Orleans Pelicans,24,SG,PG,3PT Shot Creator,"6'5""",196,190,86,"6'7""",201,4525680,2,"April 29, 2002","Gaithersburg, Maryland",UConn
+268,Jordan McLaughlin,United States,,Sacramento Kings,3,PG,,3-Level Scoring Threat,"6'0""",183,185,83,"6'5""",196,2087519,7,"April 9, 1996","Pasadena, California",Southern California
+269,Jordan Miller,United States,,Los Angeles Clippers,11,SF,SG,Interior Threat,"6'5""",196,194,87,"7'0""",213,,2,"January 23, 2000","Anaheim, California",Miami (Florida)
+270,Jordan Poole,United States,,Washington Wizards,13,PG,SG,3-Level Slasher,"6'4""",193,194,87,"6'7""",201,29651786,6,"June 19, 1999","Milwaukee, Wisconsin",Michigan
+271,Jordan Walsh,United States,,Boston Celtics,27,PF,SF,Interior Threat,"6'7""",201,205,92,"7'2""",218,1891857,2,"March 3, 2004","Dallas, Texas",Arkansas
+272,Jose Alvarado,Puerto Rico,United States,New Orleans Pelicans,15,PG,SG,Defensive Menace,"6'0""",183,179,81,"6'1""",185,1988598,4,"April 12, 1998","Brooklyn, New York",Georgia Tech
+273,Josh Christopher,United States,,Miami Heat,8,SG,PG,Inside the Arc Shot Creator,"6'4""",193,215,97,"6'9""",206,,4,"December 8, 2001","Carson, California",Arizona State
+274,Josh Giddey,Australia,,Chicago Bulls,3,SG,PG,3-Level Scoring Combo Guard,"6'8""",203,216,97,"6'8""",203,8352367,4,"October 10, 2002","Melbourne, Australia",Australia
+275,Josh Green,Australia,,Charlotte Hornets,10,SF,SG,3-Level Scoring Threat,"6'7""",201,200,90,"6'10""",208,12654321,5,"November 16, 2000","Sydney, Australia",Arizona
+276,Josh Hart,United States,,New York Knicks,3,PF,SF,2-Way Inside-Out Shot Creator,"6'4""",193,215,97,"6'8""",203,18144000,8,"March 6, 1995","Silver Spring, Maryland",Villanova
+277,Josh Minott,United States,Jamaica,Minnesota Timberwolves,8,SF,PF,Interior Threat,"6'8""",203,205,92,"7'0""",213,2019699,3,"November 25, 2002","Boca Raton, Florida",Memphis
+278,Josh Okogie,Nigeria,,Phoenix Suns,2,SF,SG,Wing Stopper,"6'4""",193,213,96,"7'0""",213,8250000,7,"September 1, 1998","Lagos, Nigeria",Georgia Tech
+279,Josh Richardson,United States,,Miami Heat,0,PG,SG,Defensive Menace,"6'5""",196,200,90,"6'10""",208,3051153,10,"September 15, 1993","Edmond, Oklahoma",Tennessee
+280,Jrue Holiday,United States,,Boston Celtics,4,PG,SG,2-Way Inside-Out ISO Creator,"6'5""",196,205,92,"6'7""",201,30000000,16,"June 12, 1990","Chatsworth, California",UCLA
+281,J.T. Thor,South Sudan,United States,Cleveland Cavaliers,13,PF,SF,Stretch Four,"6'9""",206,203,91,"7'3""",221,,4,"August 26, 2002","Omaha, Nebraska",Auburn
+282,Julian Champagnie,United States,,San Antonio Spurs,30,SF,SG,3 & D Threat,"6'7""",201,217,98,"6'10""",208,3000000,3,"June 29, 2001","Staten Island, New York",St. John's
+283,Julian Phillips,United States,,Chicago Bulls,15,SF,PF,Perimeter Defender,"6'8""",203,198,89,"7'0""",213,1891857,2,"November 5, 2003","Killeen, Texas",Tennessee
+284,Julian Strawther,Puerto Rico,United States,Denver Nuggets,3,SG,SF,Perimeter Shot Creator,"6'6""",198,205,92,"6'9""",206,2552520,2,"April 18, 2002","Las Vegas, Nevada",Gonzaga
+285,Julius Randle,United States,,Minnesota Timberwolves,30,PF,C,Inside the Arc Shot Creator,"6'8""",203,250,113,"7'0""",213,28939680,11,"November 29, 1994","Dallas, Texas",Kentucky
+286,Justin Champagnie,United States,,Washington Wizards,9,SF,SG,Rebounder,"6'6""",198,206,93,"6'10""",208,,4,"June 29, 2001","Staten Island, New York",Pittsburgh
+287,Justin Minaya,United States,,Portland Trail Blazers,10,SG,SF,Perimeter Defender,"6'5""",196,210,95,"6'9""",206,,3,"March 26, 1999","Harrington Park, New Jersey",Providence
+288,Jusuf Nurkic,Bosnia & Herzegovina,,Phoenix Suns,20,C,,2-Way Inside-The-Arc Threat,"7'0""",213,290,131,"7'2""",218,18125000,11,"August 23, 1994","Tuzla, Bosnia and Herzegovina",Bosnia and Herzegovina
+289,Kai Jones,Bahamas,,Los Angeles Clippers,23,C,PF,2-Way Interior Threat,"6'11""",211,221,99,"7'2""",218,2087519,4,"January 19, 2001","Nassau, Bahamas",Texas
+290,Karl-Anthony Towns,Dominican Republic,United States,New York Knicks,32,PF,C,Inside-Out Scorer,"7'0""",213,248,112,"7'4""",224,49205800,10,"November 15, 1995","Edison, New Jersey",Kentucky
+291,Karlo Matkovic,Bosnia & Herzegovina,,New Orleans Pelicans,13,PF,C,Rebounder,"6'10""",208,231,104,"7'2""",218,,3,"March 30, 2001",,Bosnia and Herzegovina
+292,Kawhi Leonard,United States,,Los Angeles Clippers,2,PF,SF,2-Way Scoring Phenom,"6'7""",201,225,101,"7'3""",221,49205800,14,"June 29, 1991","Los Angeles, California",San Diego State
+293,Keaton Wallace,United States,,Atlanta Hawks,20,SG,PG,3 & D Threat,"6'3""",191,195,88,"6'7""",201,,4,"February 26, 1999","Richardson, Texas",Texas-San Antonio
+294,Keegan Murray,United States,,Sacramento Kings,13,PF,SF,3-Level Scoring Threat,"6'8""",203,225,101,"6'11""",211,8809560,3,"August 19, 2000","Cedar Rapids, Iowa",Iowa
+295,Keita Bates-Diop,United States,,Minnesota Timberwolves,31,PF,SF,Mid-Range Scoring Threat,"6'8""",203,229,103,"7'3""",221,2654644,7,"January 23, 1996","Normal, Illinois",Ohio State
+296,Keldon Johnson,United States,,San Antonio Spurs,0,SF,PF,Shot-Creating 3-Level Threat,"6'5""",196,220,99,"6'9""",206,19000000,6,"October 11, 1999","Chesterfield, Virginia",Kentucky
+297,Kel’el Ware,United States,,Miami Heat,7,C,PF,Inside-Out Scoring Threat,"7'0""",213,230,104,"7'4""",224,4655040,1,"April 20, 2004","North Little Rock, Arkansas",Indiana
+298,Kelly Olynyk,Canada,,Toronto Raptors,41,C,PF,3-Level Scoring Threat,"6'11""",211,240,108,"6'10""",208,12804878,12,"April 19, 1991","Toronto, Canada",Gonzaga
+299,Kelly Oubre Jr.,United States,,Philadelphia 76ers,9,SF,SG,Rim Attacker,"6'7""",201,203,91,"7'2""",218,7983000,10,"December 9, 1995","New Orleans, Louisiana",Kansas
+300,Kendall Brown,United States,,Indiana Pacers,10,SF,SG,Perimeter Defender,"6'7""",201,205,92,"6'11""",211,2120693,3,"May 11, 2003","Cottage Grove, Minnesota",Baylor
+301,Kenneth Lofton Jr.,United States,,Chicago Bulls,34,C,,Inside the Arc Threat,"6'6""",198,275,124,"6'11""",211,,3,"August 14, 2002","Port Arthur, Texas",Louisiana Tech
+302,Kenrich Williams,United States,,Oklahoma City Thunder,34,PF,C,Stretch Four,"6'6""",198,210,95,"6'7""",201,6669000,7,"December 2, 1994","Waco, Texas",TCU
+303,Kentavious Caldwell-Pope,United States,,Orlando Magic,3,SG,SF,2-Way Sharpshooter,"6'5""",196,204,92,"6'8""",203,22757000,12,"February 18, 1993","Thomaston, Georgia",Georgia
+304,Kenyon Martin Jr.,United States,,Philadelphia 76ers,1,PF,SF,Rim Protector,"6'6""",198,215,97,"6'7""",201,7975000,5,"January 6, 2001","Gardena, California",Sierra Canyon High School
+305,Keon Ellis,United States,,Sacramento Kings,23,SG,PG,3 & D Two Guard,"6'3""",191,175,79,"6'9""",206,2120693,3,"January 8, 2000","Eustis, Florida",Alabama
+306,Keon Johnson,United States,,Brooklyn Nets,45,SG,SF,Inside-Out Threat,"6'3""",191,185,83,"6'7""",201,,4,"September 29, 1995","Shelbyville, Tennessee",Tennessee
+307,Kessler Edwards,United States,,Dallas Mavericks,20,SF,PF,3 & D Threat,"6'7""",201,203,91,"6'11""",211,,4,"August 9, 2000","Glendale, California",Pepperdine
+308,Kevin Durant,United States,,Phoenix Suns,35,PF,SF,2-Way Scoring Phenom,"6'11""",211,240,108,"7'5""",226,51179021,18,"September 29, 1988","Washington, District of Columbia",Texas
+309,Kevin Huerter,United States,,Sacramento Kings,9,SG,SF,Inside-Out Shot Creator,"6'7""",201,198,89,"6'8""",203,16830357,7,"August 27, 1998","Albany, New York",Maryland
+310,Kevin Knox II,United States,,Golden State Warriors,6,PF,SF,Skilled Stretch,"6'7""",201,215,97,"7'0""",213,,7,"August 11, 1999","Phoenix, Arizona",Kentucky
+311,Kevin Love,United States,,Miami Heat,42,C,PF,Inside-Out Board Hunter,"6'8""",203,245,110,"6'11""",211,3850000,17,"September 7, 1988","Santa Monica, California",UCLA
+312,Kevin McCullar,United States,,New York Knicks,9,SG,SF,Perimeter Defender,"6'7""",201,212,95,"6'11""",211,,1,"March 15, 2001","San Antonio, Texas",Kansas
+313,Kevin Porter Jr.,United States,,Los Angeles Clippers,77,PG,SG,Balanced Point,"6'4""",193,203,91,"6'9""",206,3237691,6,"May 4, 2000","Seattle, Washington",Southern California
+314,Kevon Harris,United States,,Atlanta Hawks,8,SF,SG,Catch & Shoot Threat,"6'5""",196,216,97,"6'9""",206,,5,"June 24, 1997","Ellenwood, Georgia",Stephen F. Austin
+315,Kevon Looney,United States,,Golden State Warriors,5,C,,Board-Hunting Lob Threat,"6'9""",206,222,100,"7'4""",224,8000000,10,"February 6, 1996","Milwaukee, Wisconsin",UCLA
+316,Keyontae Johnson,United States,,Charlotte Hornets,18,SF,SG,Catch & Shoot Threat,"6'4""",193,230,104,"6'11""",211,,2,"May 24, 2000","Norfolk, Virginia",Kansas State
+317,Keyonte George,United States,,Utah Jazz,3,PG,SG,Playmaking Inside-Out Threat,"6'4""",193,185,83,"6'5""",196,4084200,2,"November 8, 2003","Lewisville, Texas",Baylor
+318,Khris Middleton,United States,,Milwaukee Bucks,22,SF,PF,2-Way 3-Level Shot Creator,"6'7""",201,222,100,"6'11""",211,31666667,13,"August 12, 1991","Charleston, South Carolina",Texas A&M
+319,Killian Hayes,France,,Brooklyn Nets,8,PG,SG,Steady Playmaker,"6'5""",196,195,88,"6'8""",203,,5,"July 27, 2001","Lakeland, Florida",Germany
+320,Kira Lewis Jr.,United States,,Washington Wizards,2,PG,,Steady Playmaker,"6'1""",185,170,77,"6'5""",196,,5,"April 6, 2001","Meridianville, Alabama",Alabama Crimson Tide
+321,KJ Simpson,United States,,Charlotte Hornets,25,PG,,Perimeter Shot Creator,"6'2""",188,187,84,"6'6""",198,,1,"August 8, 2002","Los Angeles, California",Colorado
+322,Klay Thompson,United States,,Dallas Mavericks,31,SG,SF,2-Way Catch & Shoot Ace,"6'6""",198,220,99,"6'9""",206,15873016,14,"February 8, 1990","Los Angeles, California",Washington State
+323,Kobe Brown,United States,,Los Angeles Clippers,21,PF,SF,Promising Prospect,"6'7""",201,250,113,"7'1""",216,2533920,2,"January 1, 2000","Huntsville, Alabama",Missouri
+324,Kobe Bufkin,United States,,Atlanta Hawks,4,PG,SG,Inside the Arc Shot Creator,"6'5""",196,195,88,"6'8""",203,4299000,2,"September 21, 2003","Grand Rapids, Michigan",Michigan
+325,Kris Dunn,United States,,Los Angeles Clippers,18,SG,SF,2-Way Perimeter Shot Creator,"6'3""",191,205,92,"6'10""",208,,9,"March 18, 1994","New London, Connecticut",Providence
+326,Kris Murray,United States,,Portland Trail Blazers,24,SF,PF,Perimeter Defender,"6'8""",203,220,99,"7'0""",213,2990040,2,"August 19, 2000","Cedar Rapids, Iowa",Iowa
+327,Kristaps Porzingis,Latvia,,Boston Celtics,8,C,PF,2-Way 3-Level Scoring Threat,"7'2""",218,240,108,"7'6""",229,29268293,10,"August 2, 1995","Liepaja, Latvia",Latvia
+328,Kyle Anderson,United States,China,Golden State Warriors,1,PF,SF,Mid-Range Shot Creator,"6'9""",206,230,104,"7'3""",221,8780488,11,"September 20, 1993","New York City, New Jersey",UCLA
+329,,,,,,,,,,,,,,,,,,,
+330,Kyle Kuzma,United States,,Washington Wizards,33,PF,C,Inside-Out Small Ball Four,"6'9""",206,221,99,"7'0""",213,23522727,8,"July 24, 1995","Flint, Michigan",Utah
+331,Kyle Lowry,United States,,Philadelphia 76ers,7,PG,SG,3 & D Point,"6'0""",183,196,88,"6'2""",188,2087519,19,"March 25, 1986","Philadelphia, Pennsylvania",Villanova
+332,Kyrie Irving,United States,Australia,Dallas Mavericks,11,SG,PG,Offensive Architect,"6'2""",188,195,88,"6'4""",193,41000000,14,"March 23, 1992","Melbourne, Australia",Duke
+333,KyShawn George,Switzerland,,Washington Wizards,18,SF,PF,Perimeter Shot Creator,"6'8""",203,196,88,"7'0""",213,2825520,1,"December 12, 2003","Monthey, Switzerland",Miami
+334,LaMelo Ball,United States,,Charlotte Hornets,1,PG,SG,3-Level Scoring Playmaker,"6'7""",201,180,81,"6'10""",208,35147000,5,"August 22, 2001","Anaheim, California",Illawarra Hawks (Australia)
+335,Larry Nance Jr.,United States,,Atlanta Hawks,22,C,PF,3-Level Scoring Threat,"6'8""",203,245,110,"7'2""",218,11205000,10,"January 1, 1993","Akron, Ohio",Wyoming
+336,Lauri Markkanen,Finland,,Utah Jazz,23,SF,PF,3-Level Scoring Threat,"7'0""",213,240,108,"6'11""",211,42176400,8,"May 22, 1997","Vantaa, Finland",Arizona
+337,Leaky Black,United States,,Washington Wizards,12,PF,SF,Inside-Out Scoring Threat,"6'6""",198,209,94,"7'0""",213,,2,"June 14, 1999","Concord, North Carolina",North Carolina
+338,LeBron James,United States,,Los Angeles Lakers,23,PF,PG,2-Way Inside-Out Point Four,"6'9""",206,250,113,"7'0""",213,48728845,22,"December 30, 1984","Akron, Ohio",St. Vincent–St. Mary High School
+339,Leonard Miller,Canada,,Minnesota Timberwolves,33,PF,SF,Interior Threat,"6'10""",208,210,95,"7'2""",218,1891857,2,"November 26, 2003","Ontario, Canada",NBA G League Ignite
+340,Lester Quiñones,Dominican Republic,United States,Philadelphia 76ers,25,PG,SG,Catch & Shoot Threat,"6'4""",193,208,94,"6'8""",203,,3,"November 16, 2000","Brentwood, New York",Memphis
+341,Lindy Waters III,United States,,Golden State Warriors,43,SG,SF,Catch & Shoot Ace,"6'6""",198,210,95,"6'10""",208,2196970,5,"July 7, 1997","Norman, Oklahoma",Oklahoma State
+342,Lonnie Walker IV,United States,,Boston Celtics,12,SG,SF,Inside-Out Shot Creator,"6'4""",193,204,92,"6'11""",211,,7,"December 14, 1998","Reading, Pennsylvania",Miami (FL)
+343,Lonzo Ball,United States,,Chicago Bulls,2,PG,,2-Way 3PT Playmaker,"6'6""",198,190,86,"6'9""",206,21395348,8,"October 27, 1997","Anaheim, California",UCLA
+344,Luguentz Dort,Canada,,Oklahoma City Thunder,5,SF,PF,2-Way Inside-Out Shot Creator,"6'4""",193,220,99,"6'9""",206,16500000,6,"April 19, 1999","Montreal, Canada",Arizona State
+345,Luka Doncic,Slovenia,,Dallas Mavericks,77,PG,SG,Offensive Architect,"6'7""",201,230,104,"6'11""",211,43031940,7,"February 28, 1999","Ljubljana, Slovenia",Slovenia
+346,Luka Garza,United States,Bosnia & Herzegovina,Minnesota Timberwolves,55,C,,Rebounder,"6'10""",208,243,109,"7'2""",218,2162606,4,"December 27, 1998","Washington, District of Columbia",Iowa
+347,Luke Kennard,United States,,Memphis Grizzlies,10,SG,PG,Perimeter Shot Creator,"6'5""",196,206,93,"6'5""",196,14763636,8,"June 24, 1996","Middletown, Ohio",Duke
+348,Luke Kornet,United States,,Boston Celtics,40,C,,Paint Protector,"7'2""",218,250,113,"7'6""",229,2087519,8,"July 15, 1995","Lexington, Texas",Vanderbilt
+349,Malachi Flynn,United States,,San Antonio Spurs,8,PG,,3-Level Threat,"6'1""",185,175,79,"6'3""",191,,5,"May 10, 1998","Tacoma, Washington",San Diego State Aztecs
+350,Malaki Branham,United States,,San Antonio Spurs,22,SG,PG,Catch & Shoot Threat,"6'4""",193,180,81,"6'8""",203,3217920,3,"May 12, 2003","Columbus, Ohio",Ohio State
+351,Malcolm Brogdon,United States,,Washington Wizards,15,PG,SG,3-Level Scoring Playmaker,"6'4""",193,229,103,"6'11""",211,22500000,9,"December 11, 1992","Atlanta, Georgia",Virginia
+352,Malcolm Hill,United States,,New Orleans Pelicans,33,PF,SF,Stretch Four,"6'6""",198,220,99,"6'9""",206,,8,"October 26, 1995","St. Louis, Missouri",Illinois
+353,Malik Beasley,United States,,Detroit Pistons,5,SG,SF,Shot-Creating 3-Level Threat,"6'4""",193,187,84,"6'7""",201,6000000,9,"November 26, 1996","Atlanta, Georgia",Florida State
+354,Malik Monk,United States,,Sacramento Kings,0,SG,,Shot-Creating 3-Level Threat,"6'3""",191,200,90,"6'5""",196,17405203,8,"February 4, 1998","Jonesboro, Arkansas",Kentucky
+355,Marcus Sasser,United States,,Detroit Pistons,25,PG,SG,Balanced Point,"6'2""",188,195,88,"6'7""",201,2755080,2,"September 21, 2000","Dallas, Texas",Houston
+356,Marcus Smart,United States,,Memphis Grizzlies,36,PG,SG,2-Way Mid-Range Specialist,"6'3""",191,220,99,"6'9""",206,20210284,11,"March 6, 1994","Flower Mound, Texas",Oklahoma State
+357,MarJon Beauchamp,United States,,,,SF,SG,Catch & Shoot Ace,"6'7""",201,199,90,"7'1""",216,,,"October 12, 2000","Yakima, Washington",Yakima Valley
+358,Mark Williams,United States,,Charlotte Hornets,5,C,,Defensive Anchor,"7'0""",213,240,108,"7'7""",231,4094280,3,"December 16, 2001","Norfolk, Virginia",Duke
+359,Markieff Morris,United States,,Dallas Mavericks,88,PF,C,Stretch Four,"6'9""",206,245,110,"6'11""",211,,14,"September 2, 1989","Philadelphia, Pennsylvania",Kansas
+360,Marvin Bagley III,United States,,Washington Wizards,35,C,PF,3-Level Scoring Board Hunter,"6'10""",208,235,106,"7'1""",216,12500000,7,"March 14, 1999","Tempe, Arizona",Duke
+361,Mason Jones,United States,,Sacramento Kings,8,SG,PG,3 & D Threat,"6'4""",193,200,90,"6'7""",201,,5,"July 21, 1998","Dallas, Texas",Arkansas
+362,Mason Plumlee,United States,,Phoenix Suns,22,C,,Board-Hunting Lob Threat,"6'10""",208,254,114,"6'11""",211,2087519,12,"March 5, 1990","Fort Wayne, Indiana",Duke
+363,Matas Buzelis,Lithuania,United States,Chicago Bulls,14,SF,PF,Interior Threat,"6'10""",208,209,94,"7'2""",218,5195520,1,"October 13, 2004","Chicago, Illinois",NBA G League Ignite
+364,Matisse Thybulle,United States,Australia,Portland Trail Blazers,4,SF,SG,3 & D Wing,"6'5""",196,201,90,"7'0""",213,11025000,6,"March 4, 1997","Scottsdale, Arizona",Washington
+365,Matt Ryan,United States,,New Orleans Pelicans,37,SF,SG,Catch & Shoot Ace,"6'6""",198,215,97,"6'10""",208,,5,"April 17, 1997","White Plains, New York",Tennessee-Chattanooga
+366,Max Christie,United States,,Los Angeles Lakers,10,SG,SF,3-Level Scoring Threat,"6'5""",196,190,86,"6'9""",206,7142857,3,"February 10, 2003","Arlington Heights, Illinois",Michigan State
+367,Max Strus,United States,,Cleveland Cavaliers,1,SF,SG,Catch & Shoot Ace,"6'5""",196,215,97,"6'8""",203,15212068,6,"March 28, 1996","Hickory Hills, Illinois",DePaul
+368,Maxi Kleber,Germany,,Dallas Mavericks,42,PF,C,Stretch Four Paint  Protector,"6'10""",208,240,108,"6'11""",211,11000000,11,"January 29, 1992","Wurzburg, Germany",Germany
+369,Maxwell Lewis,United States,,Los Angeles Lakers,20,SF,SG,3 & D Threat,"6'7""",201,195,88,"7'0""",213,1891857,2,"July 27, 2002","Las Vegas, Nevada",Pepperdine
+370,Micah Potter,United States,,Utah Jazz,25,PF,C,Floor-Spacing Rebounder,"6'9""",206,248,112,"7'1""",216,,4,"April 6, 1998","Mentor, Ohio",Wisconsin
+371,Michael Porter Jr.,United States,,Denver Nuggets,1,SF,PF,Score-First Wing,"6'10""",208,218,98,"7'0""",213,35859950,7,"June 29, 1998","Columbia, Missouri",Missouri
+372,Mikal Bridges,United States,,New York Knicks,25,SF,SG,3 & D Wing,"6'6""",198,209,94,"7'1""",216,23300000,7,"August 30, 1996","Philadelphia, Pennsylvania",Villanova
+373,Mike Conley,United States,,Minnesota Timberwolves,10,PG,,2-Way 3PT Playmaker,"6'0""",183,175,79,"6'6""",198,9975962,18,"October 11, 1987","Fayetteville, Arkansas",Ohio State
+374,Miles Bridges,United States,,Charlotte Hornets,0,PF,SF,Slashing Stretch Four,"6'7""",201,225,101,"6'10""",208,27173913,7,"March 21, 1998","Flint, Michigan",Michigan State
+375,Miles McBride,United States,,New York Knicks,2,PG,SG,2-Way Sharpshooting Creator,"6'1""",185,195,88,"6'9""",206,4710144,4,"September 8, 2000","Cincinnati, Ohio",West Virginia
+376,Mitchell Robinson,United States,,New York Knicks,23,C,,Defensive Anchor,"7'0""",213,240,108,"7'2""",218,14318182,7,"April 1, 1998","Pensacola, Florida",Chalmette HS (LA)
+377,Mo Bamba,United States,,Los Angeles Clippers,4,C,,Defensive Anchor,"7'0""",213,231,104,"7'10""",239,2087519,7,"May 12, 1998","New York City, New York",Texas
+378,Monte Morris,United States,,Phoenix Suns,23,PG,,Playmaking Sharpshooter,"6'2""",188,183,82,"6'4""",193,2087519,8,"June 27, 1995","Grand Rapids, Michigan",Iowa State
+379,Moritz Wagner,Germany,,Orlando Magic,21,C,PF,3-Level Scoring Threat,"6'11""",211,245,110,"7'0""",213,11000000,7,"April 26, 1997","Berlin, Germany",Michigan
+380,Moses Moody,United States,,Golden State Warriors,4,SF,SG,2-Way 3-Level Shot Creator,"6'5""",196,211,95,"7'1""",216,5803269,4,"May 31, 2002","Little Rock, Arkansas",Arkansas
+381,Mouhamed Gueye,Senegal,,Atlanta Hawks,18,PF,C,Rebounder,"6'10""",208,210,95,"7'3""",221,1891857,2,"November 9, 2002","Dakar, Senegal",Washington State
+382,Moussa Diabate,France,,Charlotte Hornets,26,C,PF,Interior Threat,"6'9""",206,210,95,"7'1""",216,,3,"January 21, 2002","Paris, France",Michigan
+383,Myles Turner,United States,,Indiana Pacers,33,C,,2-Way 3-Level Scoring Threat,"6'11""",211,250,113,"7'4""",224,19928500,10,"March 24, 1996","Bedford, Texas",Texas
+384,Bones Hyland,United States,,Los Angeles Clippers,5,PG,SG,Inside-Out Scoring Threat,"6'2""",188,169,76,"6'9""",206,4158439,4,"September 14, 2000","Wilmington, Delaware",VCU
+385,Naji Marshall,United States,,Dallas Mavericks,13,PF,SF,Shot-Creating 3-Level Threat,"6'6""",198,220,99,"7'1""",216,8571429,5,"June 24, 1998","Atlantic City, New Jersey",Xavier
+386,Nate Hinton,United States,,Houston Rockets,16,SG,,Catch & Shoot Threat,"6'5""",196,210,95,"6'7""",201,,5,"June 8, 1999","Gastonia, North Carolina",Houston
+387,Naz Reid,United States,,Minnesota Timberwolves,11,C,PF,2-Way 3-Level Scoring Threat,"6'9""",206,264,119,"7'3""",221,13986432,6,"August 26, 1999","Asbury Park, New Jersey",LSU
+388,Neemias Queta,Portugal,,Boston Celtics,88,C,,Board-Hunting Paint Protector,"7'0""",213,248,112,"7'4""",224,2162606,4,"July 13, 1999","Lisbon, Portugal",Utah State
+389,Nick Richards,Jamaica,,Charlotte Hornets,4,C,,Board-Hunting Lob Threat,"7'0""",213,245,110,"7'2""",218,5000000,5,"November 29, 1997","Kingston, Jamaica",Kentucky
+390,Nick Smith Jr.,United States,,Charlotte Hornets,8,PG,SG,Inside-Out Scoring Threat,"6'2""",188,185,83,"6'8""",203,2587200,2,"April 18, 2004","Jacksonville, Arkansas",Arkansas
+391,Nickeil Alexander-Walker,Canada,,Minnesota Timberwolves,9,SG,SF,2-Way 3-Level Shot Creator,"6'5""",196,205,92,"6'10""",208,4312500,6,"September 2, 1998","Toronto, Canada",Virginia Tech
+392,Nicolas Batum,France,,Los Angeles Clippers,33,PF,SF,Stretch Four,"6'8""",203,230,104,"7'1""",216,4668000,17,"December 14, 1988","Lisieux, France","Le Mans (Pro A, France)"
+393,Nic Claxton,United States,U.S. Virgin Islands,Brooklyn Nets,33,C,,2-Way Inside-The-Arc Threat,"6'11""",211,215,97,"7'3""",221,27556817,6,"April 17, 1999","Greenville, South Carolina",Georgia
+394,Nikola Jokic,Serbia,,Denver Nuggets,15,C,,2-Way 3-Level Point Center,"6'11""",211,284,128,"7'3""",221,51415938,11,"February 19, 1995","Sombor, Serbia",Serbia
+395,Nikola Jovic,Serbia,,Miami Heat,5,PF,C,Inside-Out Scoring Threat,"6'10""",208,240,108,"7'0""",213,2464200,3,"June 9, 2003","Leicester, England",Serbia
+396,Nikola Topic,Serbia,,Oklahoma City Thunder,44,PG,SG,Rim Attacker,"6'7""",201,200,90,"6'11""",211,4935960,1,"August 10, 2005","Novi Sad, Serbia","Crvena zvezda (KLS, Serbia)"
+397,Nikola Vucevic,Montenegro,,Chicago Bulls,9,C,,Inside The Arc Board Hunter,"6'10""",208,260,117,"7'5""",226,20000000,14,"October 24, 1990","Morges, Switzerland",Southern California
+398,Noah Clowney,United States,,Brooklyn Nets,21,C,PF,Inside-Out Scoring Threat,"6'10""",208,210,95,"7'2""",218,3244080,2,"July 14, 2004","Spartanburg, South Carolina",Alabama
+399,Norman Powell,United States,,Los Angeles Clippers,24,SG,SF,Shot-Creating 3-Level Threat,"6'4""",193,215,97,"6'11""",211,19241379,10,"May 25, 1993","San Diego, California",UCLA
+400,Obi Toppin,United States,,Indiana Pacers,1,PF,,Inside-Out Scorer,"6'9""",206,220,99,"7'2""",218,12975000,5,"March 4, 1998","Brooklyn, New York",Dayton Flyers
+401,Ochai Agbaji,United States,,Toronto Raptors,30,PF,SF,2-Way Inside-the-Arc Creator,"6'5""",196,215,97,"6'10""",208,4310280,3,"April 20, 2000","Milwaukee, Wisconsin",Kansas
+402,OG Anunoby,United Kingdom,,New York Knicks,8,SF,PF,2-Way 3-Level Shot Creator,"6'7""",201,232,104,"7'2""",218,36637932,8,"July 17, 1997","London, England",Indiana
+403,Olivier-Maxence Prosper,Canada,,Dallas Mavericks,18,PF,SF,Interior Threat,"6'7""",201,230,104,"7'1""",216,2870400,2,"July 3, 2002","Montreal, Quebec",Marquette
+404,Onuralp Bitim,Turkey,,Chicago Bulls,17,SF,SG,Catch & Shoot Threat,"6'6""",198,215,97,"6'8""",203,1891857,4,"March 31, 1999","Kadıköy, Turkey",Turkey
+405,Onyeka Okongwu,United States,,Atlanta Hawks,17,C,,3-Level Scoring Paint Beast,"6'10""",208,240,108,"7'2""",218,14000000,5,"December 11, 2000","Los Angeles, California",USC
+406,Orlando Robinson,United States,,Sacramento Kings,77,C,,Stretch Five,"6'10""",208,245,110,"7'4""",224,,3,"July 10, 2000","York, Maine",Fresno State
+407,Oscar Tshiebwe,Congo,,Utah Jazz,44,C,PF,Board-Hunting Paint Protector,"6'8""",203,255,115,"7'4""",224,,2,"November 27, 1999","Lubumbashi, Democratic Republic of the Congo",Kentucky
+408,Oso Ighodaro,United States,,Phoenix Suns,4,PF,C,Interior Threat,"6'11""",211,225,101,"7'3""",221,,1,"July 14, 2002","Chandler, Arizona",Marquette
+409,Ousmane Dieng,France,,Oklahoma City Thunder,13,PF,SF,Promising Prospect,"6'9""",206,185,83,"7'1""",216,5027040,3,"May 21, 2003","Villeneuve-sur-Lot, France",France
+410,Pacome Dadiet,France,,New York Knicks,35,SF,PF,Perimeter Shot Creator,"6'8""",203,210,95,"7'0""",213,1808080,1,"July 27, 2005","Aubagne, France","Ratiopharm Ulm (BBL, Germany)"
+411,Paolo Banchero,United States,Italy,Orlando Magic,5,PF,SF,Shot-Creating 3-Level Threat,"6'10""",208,250,113,"7'1""",216,12160800,3,"November 12, 2002","Seattle, Washington",Duke
+412,Pascal Siakam,Cameroon,,Indiana Pacers,43,PF,C,2-Way 3-Level Shot Creator,"6'8""",203,230,104,"7'3""",221,42176400,9,"April 2, 1994","Douala, Cameroon",New Mexico State
+413,Pat Connaughton,United States,,Milwaukee Bucks,24,SG,SF,Inside-Out Shot Creator,"6'5""",196,209,94,"6'9""",206,9423869,10,"January 6, 1993","Arlington, Massachusetts",Notre Dame
+414,Pat Spencer,United States,,Golden State Warriors,61,PG,SG,Perimeter Threat,"6'3""",191,205,92,"6'7""",201,,3,"July 4, 1996","North Wales, Pennsylvania",Northwestern
+415,Patrick Baldwin Jr.,United States,,Washington Wizards,7,PF,SF,Stretch Four,"6'9""",206,220,99,"7'1""",216,2448840,3,"November 18, 2002","Green Bay, Wisconsin",Wisconsin–Milwaukee
+416,Patrick Williams,United States,,Chicago Bulls,44,PF,,Stretch Four,"6'7""",201,215,97,"6'11""",211,18000000,5,"August 26, 2001","Charlotte, North Carolina",Florida State
+417,Patty Mills,Australia,,Utah Jazz,88,PG,SG,Mid-Range Shot Creator,"6'2""",188,180,81,"6'2""",188,,16,"August 11, 1988","Canberra, Australia",Saint Mary's
+418,Paul George,United States,,Philadelphia 76ers,8,SF,PF,2-Way Scoring Phenom,"6'8""",203,220,99,"6'11""",211,49205800,15,"May 2, 1990","Palmdale, California",Fresno State
+419,Paul Reed,United States,,Detroit Pistons,7,C,PF,3-Level Scoring Board Hunter,"6'9""",206,210,95,"7'2""",218,7723000,5,"June 14, 1999","Orlando, Florida",DePaul
+420,Payton Pritchard,United States,,Boston Celtics,11,PG,,Sharpshooter,"6'1""",185,195,88,"6'4""",193,6696429,5,"January 28, 1998","Tualatin, Oregon",Oregon Ducks
+421,Pelle Larsson,Sweden,,Miami Heat,9,SG,SF,Catch & Shoot Threat,"6'5""",196,215,97,"6'9""",206,,1,"February 23, 2001","Nacka, Sweden",Arizona
+422,Pete Nance,United States,,Cleveland Cavaliers,8,PF,C,Rebounder,"6'10""",208,230,104,"7'2""",218,,2,"February 19, 2000","Akron, Ohio",North Carolina
+423,Peyton Watson,United States,,Denver Nuggets,8,PF,SF,Rim Protector,"6'7""",201,200,90,"6'11""",211,2413560,3,"September 11, 2002","Beverly Hills, California",UCLA
+424,P.J. Dozier,United States,,Minnesota Timberwolves,35,SF,SG,Perimeter Defender,"6'6""",198,205,92,"6'11""",211,2087519,8,"October 25, 1996","Columbia, South Carolina",South Carolina
+425,P.J. Tucker,United States,,Los Angeles Clippers,17,PF,C,2-Way Stretch Four,"6'5""",196,245,110,"6'11""",211,11539000,19,"May 5, 1985","Raleigh, North Carolina",Texas
+426,P.J. Washington,United States,,Dallas Mavericks,25,PF,C,3-Level Scoring Threat,"6'7""",201,230,104,"7'3""",221,15500000,6,"August 23, 1998","Louisville, Kentucky",Kentucky
+427,Precious Achiuwa,Nigeria,,New York Knicks,5,PF,C,Defensive Anchor,"6'8""",203,225,101,"7'1""",216,,5,"September 19, 1999","Port Harcourt, Nigeria",Memphis
+428,Quentin Grimes,United States,,Dallas Mavericks,5,SG,SF,3 & D Two Guard,"6'5""",196,210,95,"6'8""",203,4296682,4,"May 8, 2000","Houston, Texas",Kansas
+429,Quenton Jackson,United States,,Indiana Pacers,29,SG,PG,Rim Attacker,"6'5""",196,173,78,"6'9""",206,,3,"September 15, 1998","Los Angeles, California",Texas
+430,Rayan Rupert,France,,Portland Trail Blazers,21,SG,SF,3 & D Threat,"6'6""",198,185,83,"7'2""",218,1891857,2,"May 31, 2004","Strasbourg, France",New Zealand Breakers
+431,Reed Sheppard,United States,,Houston Rockets,15,PG,SG,3 & D Point,"6'3""",191,180,81,"6'7""",201,10098960,1,"June 24, 2004","London, Kentucky",Kentucky
+432,Reggie Jackson,United States,,Philadelphia 76ers,00,PG,SG,Perimeter Shot Creator,"6'2""",188,208,94,"7'0""",213,2087519,14,"April 16, 1990","Pordenone, Italy",Boston College
+433,Richaun Holmes,United States,,Washington Wizards,22,C,,Board-Hunting Lob Threat,"6'8""",203,235,106,"7'2""",218,12648321,10,"October 15, 1993","Lockport, Illinois",Bowling Green
+434,Ricky Council IV,United States,,Philadelphia 76ers,14,SF,SG,Catch & Shoot Threat,"6'6""",198,207,93,"6'9""",206,1891857,2,"August 3, 2001","Durham, North Carolina",Arkansas
+435,R.J. Barrett,Canada,,Toronto Raptors,9,SF,SG,2-Way Inside-Out Slasher,"6'6""",198,214,96,"6'10""",208,25794643,6,"July 14, 2000","Toronto, Canada",Duke
+436,Rob Dillingham,United States,,Minnesota Timberwolves,4,PG,SG,Shot-Creating Perimeter Threat,"6'2""",188,160,72,"6'6""",198,6262920,1,"January 4, 2005","Hickory, North Carolina",Kentucky
+437,Robert Williams III,United States,,Portland Trail Blazers,35,C,PF,Paint Beast,"6'9""",206,237,107,"7'6""",229,12428571,7,"October 17, 1997","Shreveport, Louisiana",Texas A&M
+438,Ronald Holland II,United States,,Detroit Pistons,00,SF,PF,Rim Attacker,"6'8""",203,206,93,"7'0""",213,8245320,1,"July 7, 2005","Duncanville, Texas",NBA G League Ignite
+439,Royce O’Neale,United States,,Phoenix Suns,00,SF,PF,Versatile Stopper,"6'6""",198,226,102,"6'10""",208,9375000,10,"June 5, 1993","Killeen, Texas",Baylor
+440,Rudy Gobert,France,,Minnesota Timberwolves,27,C,,Defensive Anchor,"7'1""",216,258,116,"7'9""",236,43827586,12,"June 26, 1992","Saint-Quentin, France",France
+441,Rui Hachimura,Japan,,Los Angeles Lakers,28,SF,PF,Shot-Creating 3-Level Threat,"6'8""",203,230,104,"7'2""",218,17000000,6,"February 8, 1998","Toyama, Japan",Gonzaga
+442,Russell Westbrook,United States,,Denver Nuggets,4,PG,,Rim Protector,"6'4""",193,200,90,"6'8""",203,4027525,17,"November 12, 1988","Long Beach, California",UCLA
+443,Ryan Dunn,United States,,Phoenix Suns,0,SF,PF,Versatile Stopper,"6'8""",203,208,94,"7'0""",213,2530800,1,"January 7, 2003","Brookville, New York",Virginia
+444,Ryan Rollins,United States,,Milwaukee Bucks,13,PG,SG,Mid-Range Scoring Threat,"6'3""",191,180,81,"6'10""",208,600000,3,"July 3, 2002","Detroit, Michigan",Toledo
+445,Saddiq Bey,United States,,Washington Wizards,14,SF,PF,Perimeter Defender,"6'7""",201,215,97,"6'11""",211,6440678,5,"April 9, 1999","Charlotte, North Carolina",Villanova
+446,Sam Hauser,United States,,Boston Celtics,30,SF,PF,Catch & Shoot Ace,"6'7""",201,217,98,"6'9""",206,2092344,4,"December 8, 1997","Green Bay, Wisconsin",Virginia
+447,Sam Merrill,United States,,Cleveland Cavaliers,5,SG,PG,Perimeter Shot Creator,"6'4""",193,205,92,"6'5""",196,2164993,5,"May 15, 1996","Salt Lake City, Utah",Utah State
+448,Sandro Mamukelashvili,Georgia,United States,San Antonio Spurs,54,PF,C,Board Hunter,"6'9""",206,240,108,"7'1""",216,,4,"May 23, 1999","New York, New York",Seton Hall
+449,Santi Aldama,Spain,,Memphis Grizzlies,7,PF,SF,Stretch Four,"7'0""",213,215,97,"6'11""",211,3960531,4,"January 10, 2001","Las Palmas, Spain",Loyola
+450,Scoot Henderson,United States,,Portland Trail Blazers,00,PG,SG,3-Level Slasher,"6'3""",191,195,88,"6'9""",206,10259160,2,"February 3, 2004","Marietta, Georgia",NBA G League Ignite
+451,Scottie Barnes,United States,,Toronto Raptors,4,PF,SF,2-Way 3-Level Shot Creator,"6'7""",201,225,101,"7'3""",221,10130980,4,"August 1, 2001","West Palm Beach, Florida",Florida State
+452,Scotty Pippen Jr.,United States,,Memphis Grizzlies,1,PG,,Perimeter Threat,"6'1""",185,170,77,"6'5""",196,,3,"November 10, 2000","Portland, Oregon",Vanderbilt
+453,Seth Curry,United States,,Charlotte Hornets,30,SG,PG,Inside-Out Shot Creator,"6'1""",185,185,83,"6'4""",193,2087519,12,"August 23, 1990","Charlotte, North Carolina",Duke
+454,Seth Lundy,United States,,Atlanta Hawks,3,SF,SG,Mid-Range Scoring Threat,"6'4""",193,220,99,"6'10""",208,,2,"April 2, 2000","Paulsboro, New Jersey",Penn State
+455,Shaedon Sharpe,Canada,,Portland Trail Blazers,17,SG,SF,High Flyer,"6'5""",196,200,90,"7'0""",213,6614160,3,"May 30, 2003","London, Canada",Kentucky
+456,Shai Gilgeous-Alexander,Canada,,Oklahoma City Thunder,2,PG,SG,All-Around Star,"6'6""",198,195,88,"7'0""",213,35859950,7,"July 12, 1998","Toronto, Canada",Kentucky
+457,Shake Milton,United States,,Brooklyn Nets,7,PG,SG,Mid-Range Specialist,"6'5""",196,205,92,"7'1""",216,2875000,7,"September 26, 1996","Owasso, Oklahoma",SMU
+458,Sidy Cissoko,France,,San Antonio Spurs,25,SF,PF,Ball Hawk,"6'6""",198,200,90,"6'10""",208,1891857,2,"April 2, 2004","Saint-Maurice, France",NBA G League Ignite
+459,Simone Fontecchio,Italy,,Detroit Pistons,19,SF,PF,Catch & Shoot Ace,"6'7""",201,209,94,"6'11""",211,7692308,8,"December 9, 1995","Pescara, Italy",Italy
+460,Spencer Dinwiddie,United States,,Dallas Mavericks,26,PG,SG,Playmaking Inside-Out Threat,"6'5""",196,215,97,"6'8""",203,,11,"April 6, 1993","Los Angeles, California",Colorado
+461,Stanley Umude,United States,,Milwaukee Bucks,17,SF,SG,3 & D Threat,"6'6""",198,210,95,"6'10""",208,,3,"April 12, 1999","Portland, Oregon",Arkansas
+462,Stephen Curry,United States,,Golden State Warriors,30,PG,SG,Offensive Architect,"6'2""",188,185,83,"6'4""",193,55761216,16,"March 14, 1988","Akron, Ohio",Davidson
+463,Stephon Castle,United States,,San Antonio Spurs,5,SG,PG,Defensive Menace,"6'7""",201,205,92,"6'11""",211,9105120,1,"November 1, 2004","Covington, Georgia",UConn
+464,Steven Adams,New Zealand,,Houston Rockets,12,C,,Defensive Anchor,"6'11""",211,265,119,"7'5""",226,12600000,12,"July 20, 1993","Rotorua, New Zealand",Pittsburgh
+465,Svi Mykhailiuk,Ukraine,,Utah Jazz,19,SG,SF,Catch & Shoot Ace,"6'7""",201,205,92,"6'5""",196,,7,"June 10, 1997","Cherkasy, Ukraine",Kansas
+466,Taj Gibson,United States,,Charlotte Hornets,67,C,,Inside the Arc Threat,"6'9""",206,232,104,"7'4""",224,2087519,16,"June 24, 1985","Brooklyn, New York",Southern California
+467,Talen Horton-Tucker,United States,,Chicago Bulls,11,SG,SF,Inside-Out Combo Guard,"6'4""",193,234,105,"7'1""",216,,6,"November 25, 2000","Chicago, Illinois",Iowa State
+468,Tari Eason,United States,,Houston Rockets,17,PF,SF,3-Level Scoring Threat,"6'8""",203,215,97,"7'2""",218,3695160,3,"May 10, 2001","Portsmouth, Virginia",LSU
+469,Taurean Prince,United States,,Milwaukee Bucks,12,SF,PF,Catch & Shoot Ace,"6'6""",198,218,98,"7'0""",213,2087519,9,"March 22, 1994","San Marcos, Texas",Baylor
+470,Taylor Hendricks,United States,,Utah Jazz,0,PF,SF,3-Level Scoring Threat,"6'9""",206,215,97,"7'1""",216,5848680,2,"November 22, 2003","Fort Lauderdale, Florida",UCF
+471,Terance Mann,United States,,Los Angeles Clippers,14,SG,SF,Inside-Out Shot Creator,"6'5""",196,215,97,"6'8""",203,11423077,6,"October 18, 1996","Brooklyn, New York",Florida State
+472,Terrence Shannon Jr.,United States,,Minnesota Timberwolves,00,SG,SF,Shot-Creating 3-Level Threat,"6'6""",198,215,97,"6'8""",203,2546640,1,"July 30, 2000","Chicago, Illinois",Illinois
+473,Terry Rozier III,United States,,Miami Heat,2,PG,SG,3-Level Scoring Playmaker,"6'1""",185,190,86,"6'8""",203,24924126,10,"March 17, 1994","Youngstown, Ohio",Louisville
+474,Thomas Bryant,United States,,Miami Heat,31,C,,Board-Hunting Lob Threat,"6'10""",208,255,115,"7'6""",229,2087519,8,"July 31, 1997","Rochester, New York",Indiana
+475,Tidjane Salaun,France,,Charlotte Hornets,31,PF,SF,Interior Threat,"6'10""",208,203,91,"7'2""",218,7488720,1,"August 10, 2005","Paris, France","Cholet Basket (LNB Pro A, France)"
+476,Tim Hardaway Jr.,United States,,Detroit Pistons,8,SG,SF,Shot-Creating 3-Level Threat,"6'5""",196,205,92,"6'7""",201,16193183,12,"March 16, 1992","Alameda, California",Michigan
+477,T.J. McConnell,United States,,Indiana Pacers,9,PG,,2-Way Perimeter Playmaker,"6'1""",185,190,86,"6'2""",188,9300000,10,"March 25, 1992","Pittsburgh, Pennsylvania",Arizona
+478,Tobias Harris,United States,,Detroit Pistons,12,PF,SF,Balanced Offensive Four,"6'8""",203,226,102,"6'11""",211,25365854,14,"July 15, 1992","Islip, New York",Tennessee
+479,Torrey Craig,United States,,Chicago Bulls,13,PF,SF,Stretch Four,"6'5""",196,221,99,"6'11""",211,2845342,11,"December 19, 1990","Columbia, South Carolina",USC Upstate
+480,Tosan Evbuomwan,United Kingdom,,Detroit Pistons,18,PF,SF,Skilled Stretch,"6'7""",201,217,98,"6'11""",211,,2,"February 16, 2001","Newcastle, England",Princeton
+481,Toumani Camara,Belgium,,Portland Trail Blazers,33,PF,SF,Stretch Four,"6'7""",201,220,99,"7'1""",216,1891857,2,"May 8, 2000","Brussels, Belgium",Dayton
+482,Trae Young,United States,,Atlanta Hawks,11,PG,,Offense-Heavy Point,"6'1""",185,164,74,"6'3""",191,43031940,7,"September 19, 1998","Lubbock, Texas",Oklahoma
+483,Trayce Jackson-Davis,United States,,Golden State Warriors,32,C,PF,Board-Hunting Lob Threat,"6'9""",206,245,110,"7'0""",213,1891857,2,"February 22, 2000","Greenwood, Indiana",Indiana
+484,Tre Jones,United States,,San Antonio Spurs,33,PG,,Playmaking Inside-Out Threat,"6'1""",185,185,83,"6'4""",193,9104167,5,"January 8, 2000","Apple Valley, Minnesota",Duke
+485,Tre Mann,United States,,Charlotte Hornets,23,SG,PG,Shot-Creating 3-Level Threat,"6'3""",191,178,80,"6'4""",193,4908373,4,"February 3, 2001","Gainesville, Florida",Florida
+486,Trendon Watford,United States,,Brooklyn Nets,9,PF,C,Inside-Out Scoring Threat,"6'8""",203,237,107,"7'2""",218,2726603,4,"November 9, 2000","Birmingham, Alabama",LSU
+487,Trevelin Queen,United States,,Orlando Magic,12,SG,,Ball Hawk,"6'5""",196,190,86,"6'8""",203,,5,"February 25, 1997","Baltimore, Maryland",New Mexico State
+488,Trey Jemison III,United States,,New Orleans Pelicans,55,C,,Paint Protector,"6'10""",208,260,117,"7'2""",218,,2,"November 28, 1999","Birmingham, Alabama",Alabama-Birmingham
+489,Trey Lyles,Canada,,Sacramento Kings,41,PF,C,Stretch Four,"6'9""",206,234,105,"7'2""",218,8000000,10,"November 5, 1995","Saskatoon, Canada",Kentucky
+490,Trey Murphy III,United States,,New Orleans Pelicans,25,SF,PF,3 & D Wing,"6'8""",203,206,93,"7'0""",213,5159854,4,"June 18, 2000","Durham, North Carolina",Virginia
+491,Tristan da Silva,Germany,Brazil,Orlando Magic,23,PF,C,Stretch Four,"6'9""",206,229,103,"7'1""",216,3628440,1,"May 15, 2001","Munich, Germany",Colorado
+492,Tristan Thompson,Canada,United States,Cleveland Cavaliers,13,C,,Board-Hunting Lob Threat,"6'9""",206,254,114,"7'1""",216,,14,"March 13, 1991","Toronto, Canada",Texas
+493,Tristan Vukcevic,Serbia,,Washington Wizards,00,C,PF,Rim Protector,"6'10""",208,220,99,"7'3""",221,,2,"March 11, 2003","Siena, Italy",Serbia
+494,Tristen Newton,United States,,Indiana Pacers,4,PG,SG,Steady Playmaker,"6'5""",196,190,86,"6'9""",206,,1,"April 26, 2001","Pensacola, Florida",UConn
+495,Ty Jerome,United States,,Cleveland Cavaliers,2,PG,SG,Playmaking Sharpshooter,"6'5""",196,195,88,"6'4""",193,2560975,6,"July 8, 1997","New York, New York",Virginia
+496,Tyler Herro,United States,,Miami Heat,14,SG,PG,Inside-Out Shot Creator,"6'5""",196,205,92,"6'3""",191,29000000,6,"January 20, 2000","Milwaukee, Wisconsin",Kentucky
+497,Tyler Kolek,United States,,New York Knicks,13,PG,SG,Perimeter Threat,"6'3""",191,190,86,"6'7""",201,,1,"March 27, 2001","Cumberland, Rhode Island",Marquette
+498,Tyler Smith,United States,,Milwaukee Bucks,15,PF,SF,3-Level Scoring Threat,"6'11""",211,224,101,"6'10""",208,1157153,1,"November 2, 2004","New Orleans, Louisiana",NBA G League Ignite
+499,Tyrese Haliburton,United States,,Indiana Pacers,0,PG,SG,Offensive Architect,"6'5""",196,185,83,"6'8""",203,42176400,5,"February 29, 2000","Oshkosh, Wisconsin",Iowa State
+500,Tyrese Maxey,United States,,Philadelphia 76ers,0,PG,SG,Offensive Architect,"6'2""",188,200,90,"6'7""",201,35147000,5,"November 4, 2001","Dallas, Texas",Kentucky
+501,TyTy Washington,United States,,Phoenix Suns,14,PG,,Mid-Range Shot Creator,"6'3""",191,195,88,"6'7""",201,,3,"November 15, 2001","Phoenix, Arizona",Kentucky
+502,Tyus Jones,United States,,Phoenix Suns,21,PG,,3-Level Scoring Playmaker,"6'1""",185,196,88,"6'5""",196,,10,"May 10, 1996","Apple Valley, Minnesota",Duke
+503,Ulrich Chomche,Cameroon,,Toronto Raptors,16,C,PF,Rebounder,"6'11""",211,220,99,"7'3""",221,,1,"December 30, 2005","Bafang, Cameroon",NBA Academy Africa
+504,Vasilije Micic,Serbia,,Charlotte Hornets,22,PG,SG,Playmaking Middy Specialist,"6'3""",191,203,91,"6'7""",201,7723000,11,"January 13, 1994","Kraljevo, Serbia",Serbia
+505,Victor Wembanyama,France,,San Antonio Spurs,1,C,PF,Versatile Enforcer,"7'4""",224,210,95,"8'0""",244,12768960,2,"January 4, 2004","Le Chesnay, France",Metropolitans 92 (France)
+506,Vince Williams Jr.,United States,,Memphis Grizzlies,5,SF,SG,3 & D Wing,"6'4""",193,205,92,"6'8""",203,2120693,3,"August 30, 2000","Toledo, Ohio",VCU
+507,Vit Krejci,Czech Republic,,Atlanta Hawks,27,SF,SG,Catch & Shoot Threat,"6'8""",203,195,88,"7'0""",213,2162606,5,"January 12, 1998","Strakonice, Czech Republic","Basket Zaragoza (Liga ACB, Spain)"
+508,Vlatko Cancar,Slovenia,,Denver Nuggets,31,PF,SF,Stretch Four,"6'8""",203,236,106,"6'11""",211,2087519,8,"April 10, 1997","Koper, Slovenia",Slovenia
+509,,,,,,,,,,,,,,,,,,,
+510,Wendell Carter Jr.,United States,,Orlando Magic,34,C,,3-Level Scoring Threat,"6'10""",208,270,122,"7'5""",226,11950000,7,"April 16, 1999","Atlanta, Georgia",Duke
+511,Wendell Moore Jr.,United States,,Detroit Pistons,14,SG,SF,Inside-Out Scoring Threat,"6'5""",196,215,97,"6'9""",206,2537040,3,"September 18, 2001","Richmond, Virginia",Duke
+512,Xavier Tillman,United States,,Boston Celtics,26,C,,Versatile Defender,"6'7""",201,245,110,"7'2""",218,2237691,5,"January 12, 1998","Grand Rapids, Michigan",Michigan State
+513,Yves Missi,Cameroon,Belgium,New Orleans Pelicans,21,C,PF,Interior Threat,"7'0""",213,210,95,"7'4""",224,3193200,1,"May 14, 2004","Brussels, Belgium",Baylor
+514,Zaccharie Risacher,France,,Atlanta Hawks,10,SF,SG,3 & D Threat,"6'10""",208,204,92,"7'2""",218,12569040,1,"April 8, 2005","Málaga, Spain","JL Bourg (LNB Pro A, France)"
+515,Zach Collins,United States,,San Antonio Spurs,23,C,,3-Level Scoring Threat,"6'11""",211,250,113,"7'1""",216,16741200,8,"November 19, 1997","North Las Vegas, Nevada",Gonzaga
+516,Zach Edey,Canada,,Memphis Grizzlies,14,C,,Interior Threat,"7'5""",226,305,137,"7'11""",241,5756880,1,"May 14, 2002","Toronto, Canada",Purdue
+517,Zach LaVine,United States,,Chicago Bulls,8,SG,SF,Mid-Range Slasher,"6'5""",196,200,90,"6'8""",203,43031940,11,"March 10, 1995","Renton, Washington",UCLA
+518,Zeke Nnaji,United States,,Denver Nuggets,22,C,PF,Mid-Range Scoring Threat,"6'9""",206,240,108,"7'2""",218,8888889,5,"January 9, 2001","Hopkins, Minnesota",Arizona
+519,Ziaire Williams,United States,,Brooklyn Nets,1,SF,SG,Rim Attacker,"6'9""",206,185,83,"6'10""",208,6133005,4,"September 12, 2001","Lancaster, California",Stanford
+520,Zion Williamson,United States,,New Orleans Pelicans,1,PF,C,Slashing Shot Creator,"6'6""",198,284,128,"6'10""",208,36725670,6,"July 6, 2000","Salisbury, North Carolina",Duke
