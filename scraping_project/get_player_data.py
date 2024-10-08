@@ -210,28 +210,35 @@ def getPlayerAttributes(soup, player_dict):
     
     # print(soup)
 
+    # Key value pair for attributes
+    attribute_dict = {
+        'group_outside_scoring': ' Outside Scoring',
+        'close_shot': ' Close Shot '
+        }
+
+    # Attribute
+    attribute_tag = soup.find("span", class_='attribute-box-player')
+    if attribute_tag:
+        player_overall = attribute_tag.text
+        # print('overall : ', player_overall)
+
+        player_dict["overall"] = player_overall
+
     for p_tag in soup.find_all(['h4', 'li'], class_=['card-title', 'mb-1']):
-        print(p_tag.text)
-        print("")
+        # print(p_tag)
+        # print("")
 
-        # Nationality 1 and Nationality 2
-        # if 'Close Shot' in p_tag.text:
-        #     print(p_tag.text)
-        #     nationalities_tag = p_tag
-        #     player_nationalities_a_tag = nationalities_tag.find_all('a')
-        #     if len(player_nationalities_a_tag) > 0:
-        #         player_nationality_1 = player_nationalities_a_tag[0].text.strip()
-        #     if len(player_nationalities_a_tag) > 1:
-        #         player_nationality_2 = player_nationalities_a_tag[1].text.strip()
-        
-        # # Team
-        # if 'Team: ' in p_tag.text:
-        #     team_tag = p_tag
-        #     player_team = team_tag.find('a').text
+        for key, value in attribute_dict.items():
+            if value in p_tag:
+                # print(p_tag.find('span').text)
 
-    # Add to pandas dataframe
-    # player_dict["name"] = player_name
-    # player_dict["nationality_1"] = player_nationality_1
+                player_dict[key] = p_tag.find('span').text
+                # print("successfully adding: ", key)
+                # print("value: ", player_dict[key])
+                # print("")
+
+
+    print(player_dict)
 
     return player_dict
 
