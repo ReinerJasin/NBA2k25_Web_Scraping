@@ -28,18 +28,20 @@ def getPlayerData(player_urls):
     # loop for every player urls
     for player_url in player_urls:
         
+        print("Accessing data for player: ", player_url)
+
         # Get player data from website
         driver.get(BASE_URL + player_url)
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 
         # Step 1 - Get Player Bio
-        # player_dict = getPlayerBio(soup, player_dict)
+        player_dict = getPlayerBio(soup, player_dict)
 
         # Step 2 - Get Player Attributes
         player_dict = getPlayerAttributes(soup, player_dict)
 
-        # print(player_dict)
+        print(player_dict)
         print("")
 
         current_player_df = pd.DataFrame([player_dict])
@@ -48,7 +50,7 @@ def getPlayerData(player_urls):
         # print(result_df)
 
         # print("Saving")
-        result_df.to_csv(os.path.abspath(os.curdir) + '\output\current_nba_players_test.csv')
+        result_df.to_csv(os.path.abspath(os.curdir) + '\output\current_nba_players.csv')
 
 
 def getPlayerBio(soup, player_dict):
@@ -260,6 +262,9 @@ def getPlayerAttributes(soup, player_dict):
 
     # Attribute
     attribute_tag = soup.find("span", class_='attribute-box-player')
+    
+    player_dict["overall"] = None
+
     if attribute_tag:
         player_overall = attribute_tag.text
         # print('overall : ', player_overall)
@@ -271,6 +276,9 @@ def getPlayerAttributes(soup, player_dict):
         # print("")
 
         for key, value in attribute_dict.items():
+
+            player_dict[key] = None
+
             if value in p_tag:
                 # print(p_tag.find('span').text)
 
@@ -280,10 +288,10 @@ def getPlayerAttributes(soup, player_dict):
                 # print("")
 
 
-    print(player_dict)
+    # print(player_dict)
 
     return player_dict
 
 
 # Test case 1
-getPlayerData(["trae-young", "luka-doncic", "joel-embiid"])
+# getPlayerData(["trae-young", "luka-doncic", "joel-embiid"])

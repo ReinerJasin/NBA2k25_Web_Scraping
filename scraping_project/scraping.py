@@ -55,7 +55,7 @@ for team_name_url in team_name_list:
         if player_a_tag:
             player_name = player_a_tag.get('href')
             player_name_url.add(player_name.replace("https://www.2kratings.com/", ""))
-            # print(player_name)
+            print(player_name)
 
 player_name_list = sorted(list(player_name_url))
 
