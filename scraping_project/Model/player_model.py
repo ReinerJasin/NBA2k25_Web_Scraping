@@ -43,6 +43,7 @@ class PlayerKey:
         'strength',
         'vertical',
         'stamina',
+        'hustle',
         'overall_durability',
 
         'group_inside_scoring',
