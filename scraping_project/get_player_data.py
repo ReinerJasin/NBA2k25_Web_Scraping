@@ -21,9 +21,9 @@ def getPlayerData(player_urls):
     # Create empty pandas dataframe
     result_df = pd.DataFrame()
 
-    # create an empy dictionary with keys
+    # create an empty dictionary with keys
     dict_keys = PlayerKey.dict_keys
-    player_dict = dict.fromkeys(dict_keys)
+    # player_dict = dict.fromkeys(dict_keys)
 
     # loop for every player urls
     for player_url in player_urls:
@@ -35,14 +35,19 @@ def getPlayerData(player_urls):
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 
+        player_dict = dict.fromkeys(dict_keys)
+    
         # Step 1 - Get Player Bio
         player_dict = getPlayerBio(soup, player_dict)
 
         # Step 2 - Get Player Attributes
         player_dict = getPlayerAttributes(soup, player_dict)
 
-        print(player_dict)
-        print("")
+        # Step 2 - Get Player Badges
+        player_dict = getPlayerBadges(soup, player_dict)
+
+        # print(player_dict)
+        # print("")
 
         current_player_df = pd.DataFrame([player_dict])
         result_df = pd.concat([result_df, current_player_df], ignore_index=True)
@@ -277,9 +282,10 @@ def getPlayerAttributes(soup, player_dict):
 
         for key, value in attribute_dict.items():
 
-            player_dict[key] = None
-
             if value in p_tag:
+                
+                player_dict[key] = None
+
                 # print(p_tag.find('span').text)
 
                 player_dict[key] = p_tag.find('span').text.replace(",", "")
@@ -287,11 +293,27 @@ def getPlayerAttributes(soup, player_dict):
                 # print("value: ", player_dict[key])
                 # print("")
 
-
     # print(player_dict)
 
     return player_dict
 
+def getPlayerBadges(soup, player_dict):
+
+    for p_tag in soup.find_all('div', class_='badge-card'):
+        
+        img_tag = p_tag.find('img')
+
+        badge_name = img_tag.get('title').lower().replace(" ","_").replace("-", "_")
+        badge_level = img_tag.get('data-src').replace("https://www.2kratings.com/wp-content/uploads/", "").replace("-badge.png","").replace("-", "_").replace(badge_name + "_", "")
+        player_dict["badge_" + badge_name] = badge_level
+        
+        print("attempting to add: badge_" + badge_name)
+        print("value: ", badge_level)
+        print("")
+
+    print(player_dict)
+
+    return player_dict
 
 # Test case 1
-# getPlayerData(["trae-young", "luka-doncic", "joel-embiid"])
+getPlayerData(["trae-young", "luka-doncic", "joel-embiid", "stephen-curry", "giannis-antetokounmpo", "anthony-edwards"])
