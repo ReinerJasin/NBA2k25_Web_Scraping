@@ -213,7 +213,49 @@ def getPlayerAttributes(soup, player_dict):
     # Key value pair for attributes
     attribute_dict = {
         'group_outside_scoring': ' Outside Scoring',
-        'close_shot': ' Close Shot '
+        'close_shot': ' Close Shot ',
+        'mid_range_shot': ' Mid-Range Shot ',
+        'three_point_shot': ' Three-Point Shot ',
+        'free_throw': ' Free Throw ',
+        'shot_iq': ' Shot IQ ',
+        'offensive_consistency': ' Offensive Consistency ',
+        'group_athleticism': ' Athleticism',
+        'speed': ' Speed ',
+        'agility': ' Agility ',
+        'strength': ' Strength ',
+        'vertical': ' Vertical ',
+        'stamina': ' Stamina ',
+        'hustle': ' Hustle ',
+        'overall_durability': ' Overall Durability ',
+        'group_inside_scoring': ' Inside Scoring',
+        'layup': ' Layup ',
+        'standing_dunk': ' Standing Dunk ',
+        'driving_dunk': ' Driving Dunk ',
+        'post_hook': ' Post Hook ',
+        'post_fade': ' Post Fade ',
+        'post_control': ' Post Control ',
+        'draw_foul': ' Draw Foul ',
+        'hands': ' Hands ',
+        'group_playmaking': ' Playmaking',
+        'pass_accuracy': ' Pass Accuracy ',
+        'ball_handle': ' Ball Handle ',
+        'speed_with_ball': ' Speed with Ball ',
+        'pass_iq': ' Pass IQ ',
+        'pass_vision': ' Pass Vision ',
+        'group_defense': ' Defense',
+        'interior_defense': ' Interior Defense ',
+        'perimeter_defense': ' Perimeter Defense ',
+        'steal': ' Steal ',
+        'block': ' Block ',
+        'help_defense_iq': ' Help Defense IQ ',
+        'pass_perception': ' Pass Perception ',
+        'defensive_consistency': ' Defensive Consistency ',
+        'group_rebounding': ' Rebounding',
+        'offensive_rebound': ' Offensive Rebound ',
+        'defensive_rebound': ' Defensive Rebound ',
+        'intangibles': ' Intangibles ',
+        'potential': ' Potential ',
+        'total_attributes': ' Total Attributes',
         }
 
     # Attribute
@@ -232,7 +274,7 @@ def getPlayerAttributes(soup, player_dict):
             if value in p_tag:
                 # print(p_tag.find('span').text)
 
-                player_dict[key] = p_tag.find('span').text
+                player_dict[key] = p_tag.find('span').text.replace(",", "")
                 # print("successfully adding: ", key)
                 # print("value: ", player_dict[key])
                 # print("")
