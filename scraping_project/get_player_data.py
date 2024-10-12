@@ -52,10 +52,88 @@ def getPlayerData(player_urls):
         current_player_df = pd.DataFrame([player_dict])
         result_df = pd.concat([result_df, current_player_df], ignore_index=True)
 
-        # print(result_df)
-
-        # print("Saving")
         result_df.to_csv(os.path.abspath(os.curdir) + '\output\current_nba_players.csv')
+        # # FOR DEBUG
+        # player_dict = dict.fromkeys(dict_keys)
+        # current_player_df = pd.DataFrame([player_dict])
+        # result_df = pd.concat([result_df, current_player_df], ignore_index=True)
+
+    # ALSO DEBUG
+    # player_urls = ["trae-young", "alex-caruso", "luka-doncic", "alex-caruso", "joel-embiid", "alex-caruso", "stephen-curry", "alex-caruso", "giannis-antetokounmpo", "alex-caruso", "anthony-edwards", "alex-caruso"]
+
+    # # print(result_df)
+    # none_list = checkEmptyPlayerData(result_df)
+    
+    # print("HEYY  ", [player_urls[i] for i in none_list])
+    # print("HEYY  2 ", map(player_urls.__getitem__, none_list))
+    # missing_player_urls = [player_urls[i] for i in none_list]
+
+
+    while True:
+
+        none_list = checkEmptyPlayerData(result_df)
+        missing_player_urls = [player_urls[i] for i in none_list]
+
+        # print("")
+        # print("Missing player index on the df : ", none_list)
+        # print("Missing player url : ", missing_player_urls)
+        # print("")
+
+        # if checkEmptyPlayerData(result_df) == []:
+        if none_list == []:
+            print("================== ALERT  =======================")
+            print("No more empty data, breaking the infinite loop")
+            print("=================================================")
+            print("")
+            break
+        else:
+            print("================== ALERT  =======================")
+            print("found empty data")
+            print(missing_player_urls)
+            print("=================================================")
+            print("")
+            
+            # print("RESULT OF EMPTY CHECKING IS : ")
+            # print(checkEmptyPlayerData(result_df))
+            # print(none_list)
+
+            # print("Missing player url : ", missing_player_urls)
+            for i in range(len(missing_player_urls)):
+                print(f"========== FIXING THE VALUE OF {missing_player_urls[i]} ===============")
+                driver.get(BASE_URL + missing_player_urls[i])
+                page_source = driver.page_source
+                soup = BeautifulSoup(page_source, "html.parser")
+
+                player_dict = dict.fromkeys(dict_keys)
+    
+                # Step 1 - Get Player Bio
+                player_dict = getPlayerBio(soup, player_dict)
+    
+                # Step 2 - Get Player Attributes
+                player_dict = getPlayerAttributes(soup, player_dict)
+    
+                # Step 2 - Get Player Badges
+                player_dict = getPlayerBadges(soup, player_dict)
+                # print("RESULT PLAYER DICT: ", player_dict)
+                # print("RESULT REASULT DF [i]: ", result_df.iloc[none_list[i]])
+                # print("")
+                # print("RESULT RESULT DF 1: ", result_df)
+                # print("")
+                # print("RESULT RESULT DF 2: ", result_df.loc[none_list[i]])
+                
+                # current_player_df = pd.DataFrame([player_dict])
+                result_df.loc[none_list[i]] = pd.Series(player_dict)
+                # print("RESULT RESULT DF 1 1: ", result_df)
+                print("RESULT RESULT DF 2 2: ", result_df.loc[none_list[i]])
+                # result_df = pd.concat([result_df, current_player_df], ignore_index=True)
+
+                result_df.to_csv(os.path.abspath(os.curdir) + '\output\current_nba_players.csv')
+                print("========== FIXING PROCESS DONE ===============")
+
+
+        # Saving dataframe result as a csv file
+    #     # print("Saving")
+    # result_df.to_csv(os.path.abspath(os.curdir) + '\output\current_nba_players_debug.csv')
 
 
 def getPlayerBio(soup, player_dict):
@@ -307,13 +385,23 @@ def getPlayerBadges(soup, player_dict):
         badge_level = img_tag.get('data-src').replace("https://www.2kratings.com/wp-content/uploads/", "").replace("-badge.png","").replace("-", "_").replace(badge_name + "_", "")
         player_dict["badge_" + badge_name] = badge_level
         
-        print("attempting to add: badge_" + badge_name)
-        print("value: ", badge_level)
-        print("")
+        # print("attempting to add: badge_" + badge_name)
+        # print("value: ", badge_level)
+        # print("")
 
-    print(player_dict)
+    # print(player_dict)
 
     return player_dict
 
+def checkEmptyPlayerData(result_df):
+    print("================== ALERT  =======================")
+    print("checking empty player data")
+    print("=================================================")
+    print("")
+    none_list = result_df[result_df['name'].isnull()].index.tolist()
+    # print("Index with None data: ", none_list)
+    
+    return none_list
+
 # Test case 1
-getPlayerData(["trae-young", "luka-doncic", "joel-embiid", "stephen-curry", "giannis-antetokounmpo", "anthony-edwards"])
+# getPlayerData(["trae-young", "luka-doncic", "joel-embiid", "stephen-curry", "giannis-antetokounmpo", "anthony-edwards"])
