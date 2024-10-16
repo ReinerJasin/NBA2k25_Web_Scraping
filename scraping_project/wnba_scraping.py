@@ -1,4 +1,4 @@
-from get_player_data import getPlayerData
+from wnba_get_player_data import getPlayerData
 
 import requests
 from bs4 import BeautifulSoup
