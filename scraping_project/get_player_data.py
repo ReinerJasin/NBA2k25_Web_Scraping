@@ -366,7 +366,7 @@ def getPlayerAttributes(soup, player_dict):
 
                 # print(p_tag.find('span').text)
 
-                player_dict[key] = p_tag.find('span').text.replace(",", "").strip()
+                player_dict[key] = p_tag.find('span').text.split('+')[0].text.split('-')[0].replace(",", "").strip()
                 # print("successfully adding: ", key)
                 # print("value: ", player_dict[key])
                 # print("")
@@ -404,4 +404,4 @@ def checkEmptyPlayerData(result_df):
     return none_list
 
 # Test case 1
-# getPlayerData(["trae-young", "luka-doncic", "joel-embiid", "stephen-curry", "giannis-antetokounmpo", "anthony-edwards"])
+# getPlayerData(["trae-young", "luka-doncic", "joel-embiid", "stephen-curry", "giannis-antetokounmpo", "nikola-jokic"])
