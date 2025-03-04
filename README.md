@@ -4,14 +4,14 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
-![Kaggle Views](https://img.shields.io/badge/Kaggle_Views-2800%2B-blue)
-![Kaggle Downloads](https://img.shields.io/badge/Kaggle_Downloads-491-orange)
+![Kaggle Views](https://img.shields.io/badge/Kaggle_Views-2900%2B-blue)
+![Kaggle Downloads](https://img.shields.io/badge/Kaggle_Downloads-508-orange)
 
 ## 📌 Project Overview
 
-This project focuses on **scraping high-quality and structured NBA player attributes** from the **NBA 2K25** game, sourced from the [NBA 2K Ratings Website](https://www.nba2kratings.com). The dataset provides **clean, noise-free**, and **well-structured data** for analysis, modeling, and research purposes.
+This project focuses on **scraping high-quality and structured NBA player attributes** from the **NBA 2K25** game, sourced from the [NBA 2K Ratings Website](https://www.2kratings.com/). The dataset provides **clean, noise-free**, and **well-structured data** for analysis, modeling, and research purposes.
 
-> 📢 The dataset has gained **2,800+ views and 491 downloads on Kaggle**!  
+> 📢 The dataset has gained **2,900+ views and 508 downloads on Kaggle**!  
 
 🔗 **Dataset Link:** [NBA 2K25 Player Complete Dataset](https://www.kaggle.com/datasets/reinerjasin/nba-2k25-player-complete-dataset)
 
@@ -127,10 +127,3 @@ Special thanks to **NBA 2K Ratings Website** for providing the source data.
 If you find this project useful, don’t forget to **⭐ star the repository**! 🚀
 
 ---
-
-🔹 **Next Steps:**  
-- Replace `"your-username"` with your actual GitHub username.  
-- Add **screenshots or a GIF** showing the scraper in action.  
-- Ensure all links (e.g., Kaggle dataset, LICENSE) are correct.  
-
-This **professional and structured** README will make your project stand out! 🚀🔥
