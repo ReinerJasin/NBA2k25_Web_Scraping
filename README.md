@@ -4,14 +4,14 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
-![Kaggle Views](https://img.shields.io/badge/Kaggle_Views-2900%2B-blue)
-![Kaggle Downloads](https://img.shields.io/badge/Kaggle_Downloads-508-orange)
+![Kaggle Views](https://img.shields.io/badge/Kaggle_Views-4450%2B-blue)
+![Kaggle Downloads](https://img.shields.io/badge/Kaggle_Downloads-700-orange)
 
 ## 📌 Project Overview
 
 This project focuses on **scraping high-quality and structured NBA player attributes** from the **NBA 2K25** game, sourced from the [NBA 2K Ratings Website](https://www.2kratings.com/). The dataset provides **clean, noise-free**, and **well-structured data** for analysis, modeling, and research purposes.
 
-> 📢 The dataset has gained **2,900+ views and 508 downloads on Kaggle**!  
+> 📢 The dataset has gained **4,450+ views and 700 downloads on Kaggle**!  
 
 🔗 **Dataset Link:** [NBA 2K25 Player Complete Dataset](https://www.kaggle.com/datasets/reinerjasin/nba-2k25-player-complete-dataset)
 
