@@ -366,7 +366,7 @@ def getPlayerAttributes(soup, player_dict):
 
                 # print(p_tag.find('span').text)
 
-                player_dict[key] = p_tag.find('span').text.split('+')[0].text.split('-')[0].replace(",", "").strip()
+                player_dict[key] = p_tag.find('span').text.split('+')[0].split('-')[0].replace(",", "").strip()
                 # print("successfully adding: ", key)
                 # print("value: ", player_dict[key])
                 # print("")
