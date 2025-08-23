@@ -52,7 +52,7 @@ def getPlayerData(player_urls):
         current_player_df = pd.DataFrame([player_dict])
         result_df = pd.concat([result_df, current_player_df], ignore_index=True)
 
-        result_df.to_csv(os.path.join(os.path.abspath(os.curdir), "output", "all_nba_players.csv"))
+        result_df.to_csv(os.path.join(os.path.abspath(os.curdir), "output", "all_time_nba_players.csv"))
         # # FOR DEBUG
         # player_dict = dict.fromkeys(dict_keys)
         # current_player_df = pd.DataFrame([player_dict])
@@ -127,7 +127,7 @@ def getPlayerData(player_urls):
                 print("RESULT RESULT DF 2 2: ", result_df.loc[none_list[i]])
                 # result_df = pd.concat([result_df, current_player_df], ignore_index=True)
 
-                result_df.to_csv(os.path.join(os.path.abspath(os.curdir), "output", "all_nba_players.csv"))
+                result_df.to_csv(os.path.join(os.path.abspath(os.curdir), "output", "all_time_nba_players.csv"))
                 print("========== FIXING PROCESS DONE ===============")
 
 
