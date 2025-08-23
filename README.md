@@ -66,9 +66,9 @@ cd nba-2k25-player-dataset
 ```bash
 pip install -r requirements.txt
 ```
-3️⃣ **Run the scraper**
+3️⃣ **Run the scraper** (scraping.py / all_nba_scraping.py / wnba_scraping.py)
 ```bash
-python scraper.py
+python scraping_project/scraping.py
 ```
 4️⃣ **Access the dataset**
 - The scraped dataset will be stored in the `data/` folder as a CSV file.  
